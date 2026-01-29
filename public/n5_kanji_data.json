@@ -1,0 +1,9044 @@
+[
+  {
+    "character": "一",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "1",
+    "onyomi": [
+      "いち"
+    ],
+    "kunyomi": [
+      "ひと（つ）"
+    ],
+    "meaning": "One",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "一つ (ひとつ)",
+        "romaji": "ひとつ",
+        "english": "One (thing)"
+      },
+      {
+        "japanese": "一月 (いちがつ)",
+        "romaji": "いちがつ",
+        "english": "January"
+      },
+      {
+        "japanese": "一日 (いちにち・ついたち)",
+        "romaji": "いちにち・ついたち",
+        "english": "One day/ First day of month"
+      },
+      {
+        "japanese": "一年 (いちねん)",
+        "romaji": "いちねん",
+        "english": "One year"
+      },
+      {
+        "japanese": "一人 (ひとり)",
+        "romaji": "ひとり",
+        "english": "One person"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "一",
+        "meaning": "いち (One)"
+      }
+    ],
+    "story": "The radical 一 is the core essence of 'One'."
+  },
+  {
+    "character": "三",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "3",
+    "onyomi": [
+      "さん",
+      "み"
+    ],
+    "kunyomi": [
+      "み（つ）"
+    ],
+    "meaning": "Three",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "三つ (みっつ)",
+        "romaji": "みっつ",
+        "english": "Three"
+      },
+      {
+        "japanese": "三月 (さんがつ)",
+        "romaji": "さんがつ",
+        "english": "March"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "一",
+        "meaning": "いち (One)"
+      },
+      {
+        "part": "二",
+        "meaning": "に (Two)"
+      }
+    ],
+    "story": "Picture 一 and 二 combining to form 'Three'."
+  },
+  {
+    "character": "四",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "4",
+    "onyomi": [
+      "し",
+      "よ"
+    ],
+    "kunyomi": [
+      "よ（つ）"
+    ],
+    "meaning": "Four",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "四つ (よっつ)",
+        "romaji": "よっつ",
+        "english": "Four"
+      },
+      {
+        "japanese": "四月 (しがつ)",
+        "romaji": "しがつ",
+        "english": "April"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "囗",
+        "meaning": "くにがまえ (Enclosure)"
+      },
+      {
+        "part": "儿",
+        "meaning": "ひとあし (Legs)"
+      }
+    ],
+    "story": "Picture 囗 and 儿 combining to form 'Four'."
+  },
+  {
+    "character": "五",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "5",
+    "onyomi": [
+      "ご"
+    ],
+    "kunyomi": [
+      "いつ（つ）"
+    ],
+    "meaning": "Five",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "五つ (いつつ)",
+        "romaji": "いつつ",
+        "english": "Five"
+      },
+      {
+        "japanese": "五月 (ごがつ)",
+        "romaji": "ごがつ",
+        "english": "May"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "二",
+        "meaning": "に (Two)"
+      },
+      {
+        "part": "X",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 二 and X combining to form 'Five'."
+  },
+  {
+    "character": "六",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "6",
+    "onyomi": [
+      "ろく",
+      "むい"
+    ],
+    "kunyomi": [
+      "む（つ）"
+    ],
+    "meaning": "Six",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "六つ (むっつ)",
+        "romaji": "むっつ",
+        "english": "Six"
+      },
+      {
+        "japanese": "六月 (ろくがつ)",
+        "romaji": "ろくがつ",
+        "english": "June"
+      },
+      {
+        "japanese": "六日 (むいか 6)",
+        "romaji": "むいか 6",
+        "english": "th day of the month"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "亠",
+        "meaning": "なべぶた (Lid)"
+      },
+      {
+        "part": "八",
+        "meaning": "はち (Eight)"
+      }
+    ],
+    "story": "Picture 亠 and 八 combining to form 'Six'."
+  },
+  {
+    "character": "七",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "7",
+    "onyomi": [
+      "しち"
+    ],
+    "kunyomi": [
+      "なな（つ）"
+    ],
+    "meaning": "Seven",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "七つ (ななつ)",
+        "romaji": "ななつ",
+        "english": "Seven"
+      },
+      {
+        "japanese": "七月 (しちがつ)",
+        "romaji": "しちがつ",
+        "english": "July"
+      },
+      {
+        "japanese": "七日 (なのか 7)",
+        "romaji": "なのか 7",
+        "english": "th day of the month"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "一",
+        "meaning": "いち (One)"
+      },
+      {
+        "part": "乚",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 一 and 乚 combining to form 'Seven'."
+  },
+  {
+    "character": "八",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "8",
+    "onyomi": [
+      "はち"
+    ],
+    "kunyomi": [
+      "やっ（つ）"
+    ],
+    "meaning": "Eight",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "八つ (やっつ)",
+        "romaji": "やっつ",
+        "english": "Eight"
+      },
+      {
+        "japanese": "八月 (はちがつ)",
+        "romaji": "はちがつ",
+        "english": "August"
+      },
+      {
+        "japanese": "八日 (ようか 8)",
+        "romaji": "ようか 8",
+        "english": "th day of the month"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "八",
+        "meaning": "はち (Eight)"
+      }
+    ],
+    "story": "The radical 八 is the core essence of 'Eight'."
+  },
+  {
+    "character": "九",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "9",
+    "onyomi": [
+      "きゅう",
+      "く"
+    ],
+    "kunyomi": [
+      "ここの（つ）"
+    ],
+    "meaning": "Nine",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "九つ (ここのつ)",
+        "romaji": "ここのつ",
+        "english": "Nine"
+      },
+      {
+        "japanese": "九月 (くがつ)",
+        "romaji": "くがつ",
+        "english": "September"
+      },
+      {
+        "japanese": "九日 (ここのか 9)",
+        "romaji": "ここのか 9",
+        "english": "th day of the month"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "丿",
+        "meaning": "の (Slide)"
+      },
+      {
+        "part": "乙",
+        "meaning": "おつ (Second)"
+      }
+    ],
+    "story": "Picture 丿 and 乙 combining to form 'Nine'."
+  },
+  {
+    "character": "十",
+    "level": "N5",
+    "lesson": "Numbers",
+    "pdf_id": "10",
+    "onyomi": [
+      "じゅう",
+      "じっ",
+      "とお"
+    ],
+    "kunyomi": [],
+    "meaning": "Ten",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "十 (とお)",
+        "romaji": "とお",
+        "english": "Ten"
+      },
+      {
+        "japanese": "十月 (じゅうがつ)",
+        "romaji": "じゅうがつ",
+        "english": "October"
+      },
+      {
+        "japanese": "十日 (とおか 10)",
+        "romaji": "とおか 10",
+        "english": "th day of the month"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "一",
+        "meaning": "いち (One)"
+      },
+      {
+        "part": "丨",
+        "meaning": "ぼう (Line)"
+      }
+    ],
+    "story": "Picture 一 and 丨 combining to form 'Ten'."
+  },
+  {
+    "character": "人",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "1",
+    "onyomi": [
+      "にん",
+      "じん",
+      "ひと"
+    ],
+    "kunyomi": [],
+    "meaning": "Person",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "アメリカ人 (アメリカじん)",
+        "romaji": "アメリカじん",
+        "english": "American"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      }
+    ],
+    "story": "The radical 人 is the core essence of 'Person'."
+  },
+  {
+    "character": "名",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "2",
+    "onyomi": [
+      "めい",
+      "みょう",
+      "な"
+    ],
+    "kunyomi": [],
+    "meaning": "Name,Famous",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "名前 (なまえ)",
+        "romaji": "なまえ",
+        "english": "Name"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "夕",
+        "meaning": "ゆうべ (Evening)"
+      },
+      {
+        "part": "口",
+        "meaning": "くち (Mouth)"
+      }
+    ],
+    "story": "Picture 夕 and 口 combining to form 'Name'."
+  },
+  {
+    "character": "方",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "3",
+    "onyomi": [
+      "ほう",
+      "かた"
+    ],
+    "kunyomi": [],
+    "meaning": "Person,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Direction"
+      },
+      {
+        "japanese": "あの (かたはミラーさんです。)",
+        "romaji": "かたはミラーさんです。",
+        "english": "That person"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "方",
+        "meaning": "ほう (Square/Dir)"
+      }
+    ],
+    "story": "The radical 方 is the core essence of 'Person'."
+  },
+  {
+    "character": "本",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "4",
+    "onyomi": [
+      "ほん",
+      "もと"
+    ],
+    "kunyomi": [],
+    "meaning": "Origin,Book",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "カメラの本 (ほん)",
+        "romaji": "ほん",
+        "english": "Book"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "木",
+        "meaning": "き (Tree)"
+      },
+      {
+        "part": "一",
+        "meaning": "いち (One)"
+      }
+    ],
+    "story": "Picture 木 and 一 combining to form 'Origin'."
+  },
+  {
+    "character": "日",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "5",
+    "onyomi": [
+      "じつ",
+      "にち",
+      "ひ",
+      "び",
+      "か"
+    ],
+    "kunyomi": [],
+    "meaning": "Sun,Day",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "日本 (にほん)",
+        "romaji": "にほん",
+        "english": "Japan"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "日",
+        "meaning": "ひ (Sun)"
+      }
+    ],
+    "story": "The radical 日 is the core essence of 'Sun'."
+  },
+  {
+    "character": "何",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "6",
+    "onyomi": [
+      "か",
+      "なん",
+      "なに"
+    ],
+    "kunyomi": [],
+    "meaning": "What",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "これは何ですか (なんですか)",
+        "romaji": "なんですか",
+        "english": "What is this?"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "可",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 人 and 可 combining to form 'What'."
+  },
+  {
+    "character": "大",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "7",
+    "onyomi": [
+      "だい",
+      "たい"
+    ],
+    "kunyomi": [
+      "おお（きい）"
+    ],
+    "meaning": "Big",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "大きい (おおきい)",
+        "romaji": "おおきい",
+        "english": "Big"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "大",
+        "meaning": "だい (Big)"
+      }
+    ],
+    "story": "The radical 大 is the core essence of 'Big'."
+  },
+  {
+    "character": "学",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "8",
+    "onyomi": [
+      "がく"
+    ],
+    "kunyomi": [
+      "まな（ぶ）"
+    ],
+    "meaning": "Study",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "大学 (だいがく)",
+        "romaji": "だいがく",
+        "english": "University"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "ツ",
+        "meaning": "?"
+      },
+      {
+        "part": "冖",
+        "meaning": "わかんむり (Crown)"
+      },
+      {
+        "part": "子",
+        "meaning": "こ (Child)"
+      }
+    ],
+    "story": "Picture ツ and 冖 combining to form 'Study'."
+  },
+  {
+    "character": "社",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "9",
+    "onyomi": [
+      "しゃ",
+      "やしろ"
+    ],
+    "kunyomi": [],
+    "meaning": "Company,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Office"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "礻",
+        "meaning": "しめすへん (Show)"
+      },
+      {
+        "part": "土",
+        "meaning": "つち (Earth)"
+      }
+    ],
+    "story": "Picture 礻 and 土 combining to form 'Company'."
+  },
+  {
+    "character": "員",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "10",
+    "onyomi": [
+      "いん",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Employee",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "社員 (しゃいん)",
+        "romaji": "しゃいん",
+        "english": "Company employee"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "口",
+        "meaning": "くち (Mouth)"
+      },
+      {
+        "part": "貝",
+        "meaning": "かい (Shell)"
+      }
+    ],
+    "story": "Picture 口 and 貝 combining to form 'Employee'."
+  },
+  {
+    "character": "会",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "11",
+    "onyomi": [
+      "かい",
+      "え"
+    ],
+    "kunyomi": [
+      "あ（います）"
+    ],
+    "meaning": "Meet",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "会社 (かいしゃ)",
+        "romaji": "かいしゃ",
+        "english": "Company,Office"
+      },
+      {
+        "japanese": "会社員 (かいしゃいん)",
+        "romaji": "かいしゃいん",
+        "english": "Employee"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "二",
+        "meaning": "に (Two)"
+      },
+      {
+        "part": "ム",
+        "meaning": "む (Private)"
+      }
+    ],
+    "story": "Picture 人 and 二 combining to form 'Meet'."
+  },
+  {
+    "character": "先",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "12",
+    "onyomi": [
+      "せん",
+      "さき"
+    ],
+    "kunyomi": [],
+    "meaning": "Ahead,Previous",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "牛",
+        "meaning": "うし (Cow)"
+      },
+      {
+        "part": "儿",
+        "meaning": "ひとあし (Legs)"
+      }
+    ],
+    "story": "Picture 牛 and 儿 combining to form 'Ahead'."
+  },
+  {
+    "character": "生",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "13",
+    "onyomi": [
+      "せい"
+    ],
+    "kunyomi": [
+      "う（まれます）"
+    ],
+    "meaning": "Born",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "先生 (せんせい)",
+        "romaji": "せんせい",
+        "english": "teacher"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "生",
+        "meaning": "うまれる (Life)"
+      }
+    ],
+    "story": "The radical 生 is the core essence of 'Born'."
+  },
+  {
+    "character": "行",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "14",
+    "onyomi": [
+      "こう",
+      "ぎょう"
+    ],
+    "kunyomi": [
+      "い（きます）"
+    ],
+    "meaning": "Go,Conduct",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "行きます (いきます)",
+        "romaji": "いきます",
+        "english": "Go"
+      },
+      {
+        "japanese": "銀行員 (ぎんこういん)",
+        "romaji": "ぎんこういん",
+        "english": "Banker"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "彳",
+        "meaning": "ぎょうにんべん (Step)"
+      },
+      {
+        "part": "亍",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 彳 and 亍 combining to form 'Go'."
+  },
+  {
+    "character": "来",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "15",
+    "onyomi": [
+      "らい"
+    ],
+    "kunyomi": [
+      "き（ます）"
+    ],
+    "meaning": "Come",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "木",
+        "meaning": "き (Tree)"
+      },
+      {
+        "part": "米",
+        "meaning": "こめ (Rice)"
+      }
+    ],
+    "story": "Picture 木 and 米 combining to form 'Come'."
+  },
+  {
+    "character": "車",
+    "level": "N5",
+    "lesson": "Lessons 1 & 2",
+    "pdf_id": "16",
+    "onyomi": [
+      "しゃ",
+      "くるま"
+    ],
+    "kunyomi": [],
+    "meaning": "Car",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "車",
+        "meaning": "くるま (Car)"
+      }
+    ],
+    "story": "The radical 車 is the core essence of 'Car'."
+  },
+  {
+    "character": "百",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "1",
+    "onyomi": [
+      "ひゃく",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Hundred",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "百 (ひゃく)",
+        "romaji": "ひゃく",
+        "english": "One hundred"
+      },
+      {
+        "japanese": "六百 (ろっぴゃく)",
+        "romaji": "ろっぴゃく",
+        "english": "Six hundred"
+      },
+      {
+        "japanese": "三百 (さんびゃく)",
+        "romaji": "さんびゃく",
+        "english": "Three hundred"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "一",
+        "meaning": "いち (One)"
+      },
+      {
+        "part": "白",
+        "meaning": "しろ (White)"
+      }
+    ],
+    "story": "Picture 一 and 白 combining to form 'Hundred'."
+  },
+  {
+    "character": "千",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "2",
+    "onyomi": [
+      "せん",
+      "ぜん",
+      "ち"
+    ],
+    "kunyomi": [],
+    "meaning": "Thousand",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "八千 (はっせん)",
+        "romaji": "はっせん",
+        "english": "Eight thousand"
+      },
+      {
+        "japanese": "三千 (さんぜん)",
+        "romaji": "さんぜん",
+        "english": "Three thousand"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "十",
+        "meaning": "じゅう (Ten)"
+      },
+      {
+        "part": "丿",
+        "meaning": "の (Slide)"
+      }
+    ],
+    "story": "Picture 十 and 丿 combining to form 'Thousand'."
+  },
+  {
+    "character": "万",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "3",
+    "onyomi": [
+      "まん",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Ten thousand",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "一千万 (いっせんまん)",
+        "romaji": "いっせんまん",
+        "english": "ten million"
+      },
+      {
+        "japanese": "七万 (ななまん)",
+        "romaji": "ななまん",
+        "english": "seventy thousand"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "一",
+        "meaning": "いち (One)"
+      },
+      {
+        "part": "刀",
+        "meaning": "かたな (Sword)"
+      }
+    ],
+    "story": "Picture 一 and 刀 combining to form 'Ten thousand'."
+  },
+  {
+    "character": "円",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "4",
+    "onyomi": [
+      "えん"
+    ],
+    "kunyomi": [
+      "まる（い）"
+    ],
+    "meaning": "Yen, Circle",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "九万円 (きゅうまんえん)",
+        "romaji": "きゅうまんえん",
+        "english": "ninety thousand yen"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "冂",
+        "meaning": "けいがまえ (Box)"
+      },
+      {
+        "part": "丄",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 冂 and 丄 combining to form 'Yen'."
+  },
+  {
+    "character": "毎",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "5",
+    "onyomi": [
+      "まい",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Every",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "毎日 (まいにち)",
+        "romaji": "まいにち",
+        "english": "Every day"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "毋",
+        "meaning": "なかれ (Do not)"
+      },
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      }
+    ],
+    "story": "Picture 毋 and 人 combining to form 'Every'."
+  },
+  {
+    "character": "時",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "6",
+    "onyomi": [
+      "じ",
+      "とき"
+    ],
+    "kunyomi": [],
+    "meaning": "Time",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "四時 (よじ 4)",
+        "romaji": "よじ 4",
+        "english": "o’ clock"
+      },
+      {
+        "japanese": "九時 (くじ 9)",
+        "romaji": "くじ 9",
+        "english": "o’ clock"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "日",
+        "meaning": "ひ (Sun)"
+      },
+      {
+        "part": "寺",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 日 and 寺 combining to form 'Time'."
+  },
+  {
+    "character": "分",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "7",
+    "onyomi": [
+      "ふん",
+      "ぶん"
+    ],
+    "kunyomi": [
+      "わ（けます）"
+    ],
+    "meaning": "Minutes,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "ぷん (わ（かります）)",
+        "romaji": "わ（かります）",
+        "english": "Understand"
+      },
+      {
+        "japanese": "九分 (きゅうふん)",
+        "romaji": "きゅうふん",
+        "english": "Nine minutes"
+      },
+      {
+        "japanese": "一分 (いっぷん)",
+        "romaji": "いっぷん",
+        "english": "One minute"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "八",
+        "meaning": "はち (Eight)"
+      },
+      {
+        "part": "刀",
+        "meaning": "かたな (Sword)"
+      }
+    ],
+    "story": "Picture 八 and 刀 combining to form 'Minutes'."
+  },
+  {
+    "character": "半",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "8",
+    "onyomi": [
+      "はん"
+    ],
+    "kunyomi": [
+      "なか（ば）"
+    ],
+    "meaning": "Half",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "四時半 (よじはん)",
+        "romaji": "よじはん",
+        "english": "four thirty"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "丶",
+        "meaning": "てん (Dot)"
+      },
+      {
+        "part": "二",
+        "meaning": "に (Two)"
+      },
+      {
+        "part": "丨",
+        "meaning": "ぼう (Line)"
+      }
+    ],
+    "story": "Picture 丶 and 二 combining to form 'Half'."
+  },
+  {
+    "character": "国",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "9",
+    "onyomi": [
+      "こく",
+      "くに"
+    ],
+    "kunyomi": [],
+    "meaning": "Country",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "囗",
+        "meaning": "くにがまえ (Enclosure)"
+      },
+      {
+        "part": "玉",
+        "meaning": "たま (Jewel)"
+      }
+    ],
+    "story": "Picture 囗 and 玉 combining to form 'Country'."
+  },
+  {
+    "character": "月",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "10",
+    "onyomi": [
+      "がつ",
+      "げつ",
+      "つき"
+    ],
+    "kunyomi": [],
+    "meaning": "Moon",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "月よう日 (げつようび)",
+        "romaji": "げつようび",
+        "english": "Monday"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "月",
+        "meaning": "つき (Moon)"
+      }
+    ],
+    "story": "The radical 月 is the core essence of 'Moon'."
+  },
+  {
+    "character": "火",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "11",
+    "onyomi": [
+      "か",
+      "ひ"
+    ],
+    "kunyomi": [],
+    "meaning": "Fire",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "火よう日 (かようび)",
+        "romaji": "かようび",
+        "english": "Tuesday"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "火",
+        "meaning": "ひ (Fire)"
+      }
+    ],
+    "story": "The radical 火 is the core essence of 'Fire'."
+  },
+  {
+    "character": "水",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "12",
+    "onyomi": [
+      "すい",
+      "みず"
+    ],
+    "kunyomi": [],
+    "meaning": "Water",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "水よう日 (すいようび)",
+        "romaji": "すいようび",
+        "english": "Wednesday"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "水",
+        "meaning": "みず (Water)"
+      }
+    ],
+    "story": "The radical 水 is the core essence of 'Water'."
+  },
+  {
+    "character": "木",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "13",
+    "onyomi": [
+      "もく",
+      "き"
+    ],
+    "kunyomi": [],
+    "meaning": "Tree",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "木よう日 (もくようび)",
+        "romaji": "もくようび",
+        "english": "Thursday"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "木",
+        "meaning": "き (Tree)"
+      }
+    ],
+    "story": "The radical 木 is the core essence of 'Tree'."
+  },
+  {
+    "character": "金",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "14",
+    "onyomi": [
+      "きん",
+      "かね"
+    ],
+    "kunyomi": [],
+    "meaning": "Gold, Money",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "金よう日 (きんようび)",
+        "romaji": "きんようび",
+        "english": "Friday"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "王",
+        "meaning": "おう (King)"
+      },
+      {
+        "part": "丷",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 人 and 王 combining to form 'Gold'."
+  },
+  {
+    "character": "土",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "15",
+    "onyomi": [
+      "ど",
+      "つち"
+    ],
+    "kunyomi": [],
+    "meaning": "Soil, Mud",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "土よう日 (どようび)",
+        "romaji": "どようび",
+        "english": "Saturday"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "土",
+        "meaning": "つち (Earth)"
+      }
+    ],
+    "story": "The radical 土 is the core essence of 'Soil'."
+  },
+  {
+    "character": "書",
+    "level": "N5",
+    "lesson": "Lessons 3 & 4",
+    "pdf_id": "16",
+    "onyomi": [
+      "しょ"
+    ],
+    "kunyomi": [
+      "か（きます）"
+    ],
+    "meaning": "Write",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "辞書 (じしょ)",
+        "romaji": "じしょ",
+        "english": "Dictionary"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "聿",
+        "meaning": "ふでづくり (Brush)"
+      },
+      {
+        "part": "日",
+        "meaning": "ひ (Sun)"
+      }
+    ],
+    "story": "Picture 聿 and 日 combining to form 'Write'."
+  },
+  {
+    "character": "友",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "1",
+    "onyomi": [
+      "ゆう",
+      "とも"
+    ],
+    "kunyomi": [],
+    "meaning": "Friend",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "友達 (ともだち)",
+        "romaji": "ともだち",
+        "english": "Friend"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "十",
+        "meaning": "じゅう (Ten)"
+      },
+      {
+        "part": "又",
+        "meaning": "また (Again)"
+      }
+    ],
+    "story": "Picture 十 and 又 combining to form 'Friend'."
+  },
+  {
+    "character": "年",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "2",
+    "onyomi": [
+      "ねん",
+      "とし"
+    ],
+    "kunyomi": [],
+    "meaning": "Year",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "来年 (らいねん)",
+        "romaji": "らいねん",
+        "english": "Next year"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "干",
+        "meaning": "ほす (Dry)"
+      }
+    ],
+    "story": "Picture 人 and 干 combining to form 'Year'."
+  },
+  {
+    "character": "今",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "3",
+    "onyomi": [
+      "こん",
+      "いま"
+    ],
+    "kunyomi": [],
+    "meaning": "Now",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "今晩 (こんばん)",
+        "romaji": "こんばん",
+        "english": "This evening"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "ラ",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 人 and ラ combining to form 'Now'."
+  },
+  {
+    "character": "週",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "4",
+    "onyomi": [
+      "しゅう",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Week",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "今週 (こんしゅう)",
+        "romaji": "こんしゅう",
+        "english": "This week"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "辶",
+        "meaning": "しんにょう (Walk)"
+      },
+      {
+        "part": "周",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 辶 and 周 combining to form 'Week'."
+  },
+  {
+    "character": "休",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "5",
+    "onyomi": [
+      "きゅう"
+    ],
+    "kunyomi": [
+      "やす（みます）"
+    ],
+    "meaning": "Rest,Holiday",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "木",
+        "meaning": "き (Tree)"
+      }
+    ],
+    "story": "Picture 人 and 木 combining to form 'Rest'."
+  },
+  {
+    "character": "前",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "6",
+    "onyomi": [
+      "ぜん",
+      "まえ"
+    ],
+    "kunyomi": [],
+    "meaning": "Before, Infront",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "名前 (なまえ)",
+        "romaji": "なまえ",
+        "english": "Name"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "艹",
+        "meaning": "くさかんむり (Grass)"
+      },
+      {
+        "part": "月",
+        "meaning": "つき (Moon)"
+      },
+      {
+        "part": "刂",
+        "meaning": "りっとう (Sword)"
+      }
+    ],
+    "story": "Picture 艹 and 月 combining to form 'Before'."
+  },
+  {
+    "character": "午",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "7",
+    "onyomi": [
+      "ご",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Noon",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "午前 (ごぜん)",
+        "romaji": "ごぜん",
+        "english": "a.m"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "牛",
+        "meaning": "うし (Cow)"
+      }
+    ],
+    "story": "The radical 牛 is the core essence of 'Noon'."
+  },
+  {
+    "character": "後",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "8",
+    "onyomi": [
+      "ご"
+    ],
+    "kunyomi": [
+      "うし（ろ）"
+    ],
+    "meaning": "Later, Behind",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "午後 (ごご)",
+        "romaji": "ごご",
+        "english": "afternoon"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "彳",
+        "meaning": "ぎょうにんべん (Step)"
+      },
+      {
+        "part": "幺",
+        "meaning": "いとがしら (Thread)"
+      },
+      {
+        "part": "夂",
+        "meaning": "ふゆがしら (Winter)"
+      }
+    ],
+    "story": "Picture 彳 and 幺 combining to form 'Later'."
+  },
+  {
+    "character": "校",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "9",
+    "onyomi": [
+      "こう",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "School",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "学校 (がっこう)",
+        "romaji": "がっこう",
+        "english": "School"
+      },
+      {
+        "japanese": "高校 (こうこう)",
+        "romaji": "こうこう",
+        "english": "High school"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "木",
+        "meaning": "き (Tree)"
+      },
+      {
+        "part": "交",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 木 and 交 combining to form 'School'."
+  },
+  {
+    "character": "帰",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "10",
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "かえ（ります）"
+    ],
+    "meaning": "Return",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "帰ります (かえります)",
+        "romaji": "かえります",
+        "english": "Return"
+      },
+      {
+        "japanese": "帰国 (きこく)",
+        "romaji": "きこく",
+        "english": "Return to one’s country"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "刂",
+        "meaning": "りっとう (Sword)"
+      },
+      {
+        "part": "ヨ",
+        "meaning": "けいがしら (Snout)"
+      },
+      {
+        "part": "巾",
+        "meaning": "はば (Towel)"
+      }
+    ],
+    "story": "Picture 刂 and ヨ combining to form 'Return'."
+  },
+  {
+    "character": "見",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "11",
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "み（ます）"
+    ],
+    "meaning": "See,Show",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "目",
+        "meaning": "め (Eye)"
+      },
+      {
+        "part": "儿",
+        "meaning": "ひとあし (Legs)"
+      }
+    ],
+    "story": "Picture 目 and 儿 combining to form 'See'."
+  },
+  {
+    "character": "聞",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "12",
+    "onyomi": [
+      "ぶん",
+      "もん"
+    ],
+    "kunyomi": [
+      "き（きます）"
+    ],
+    "meaning": "Hear",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "CDを聞きます。CDをききます。"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "門",
+        "meaning": "もん (Gate)"
+      },
+      {
+        "part": "耳",
+        "meaning": "みみ (Ear)"
+      }
+    ],
+    "story": "Picture 門 and 耳 combining to form 'Hear'."
+  },
+  {
+    "character": "読",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "13",
+    "onyomi": [
+      "どく",
+      "どう"
+    ],
+    "kunyomi": [
+      "よ（みます）"
+    ],
+    "meaning": "Read",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "言",
+        "meaning": "こと (Word)"
+      },
+      {
+        "part": "売",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 言 and 売 combining to form 'Read'."
+  },
+  {
+    "character": "食",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "14",
+    "onyomi": [
+      "しょく"
+    ],
+    "kunyomi": [
+      "た（べます）"
+    ],
+    "meaning": "Eat",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "食堂 (しょくどう)",
+        "romaji": "しょくどう",
+        "english": "Cafeteria/Mess"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "良",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 人 and 良 combining to form 'Eat'."
+  },
+  {
+    "character": "飲",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "15",
+    "onyomi": [
+      "いん"
+    ],
+    "kunyomi": [
+      "の（みます）"
+    ],
+    "meaning": "Drink",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "食",
+        "meaning": "しょく (Eat)"
+      },
+      {
+        "part": "欠",
+        "meaning": "あくび (Yawn)"
+      }
+    ],
+    "story": "Picture 食 and 欠 combining to form 'Drink'."
+  },
+  {
+    "character": "買",
+    "level": "N5",
+    "lesson": "Lessons 5 & 6",
+    "pdf_id": "16",
+    "onyomi": [
+      "ばい"
+    ],
+    "kunyomi": [
+      "か（います）"
+    ],
+    "meaning": "Buy",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "罒",
+        "meaning": "?"
+      },
+      {
+        "part": "貝",
+        "meaning": "かい (Shell)"
+      }
+    ],
+    "story": "Picture 罒 and 貝 combining to form 'Buy'."
+  },
+  {
+    "character": "母",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "1",
+    "onyomi": [
+      "ぼ",
+      "はは"
+    ],
+    "kunyomi": [],
+    "meaning": "Mother",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "お母さん (おかあさん)",
+        "romaji": "おかあさん",
+        "english": "Mother"
+      },
+      {
+        "japanese": "わたしの母 (わたしのはは)",
+        "romaji": "わたしのはは",
+        "english": "My mother"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "母",
+        "meaning": "?"
+      }
+    ],
+    "story": "The radical 母 is the core essence of 'Mother'."
+  },
+  {
+    "character": "父",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "2",
+    "onyomi": [
+      "ふ",
+      "ちち"
+    ],
+    "kunyomi": [],
+    "meaning": "Father",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "お父さん (おとうさん)",
+        "romaji": "おとうさん",
+        "english": "Father"
+      },
+      {
+        "japanese": "わたしの父 (わたしのちち)",
+        "romaji": "わたしのちち",
+        "english": "My father"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "父",
+        "meaning": "ちち (Father)"
+      }
+    ],
+    "story": "The radical 父 is the core essence of 'Father'."
+  },
+  {
+    "character": "物",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "3",
+    "onyomi": [
+      "ぶつ",
+      "もつ",
+      "もの"
+    ],
+    "kunyomi": [],
+    "meaning": "Thing",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "食べ物 (たべもの)",
+        "romaji": "たべもの",
+        "english": "Food"
+      },
+      {
+        "japanese": "荷物 (にもつ)",
+        "romaji": "にもつ",
+        "english": "Luggage/ baggage"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "牛",
+        "meaning": "うし (Cow)"
+      },
+      {
+        "part": "勿",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 牛 and 勿 combining to form 'Thing'."
+  },
+  {
+    "character": "朝",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "4",
+    "onyomi": [
+      "ちょう",
+      "あさ"
+    ],
+    "kunyomi": [],
+    "meaning": "Morning",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "十",
+        "meaning": "じゅう (Ten)"
+      },
+      {
+        "part": "日",
+        "meaning": "ひ (Sun)"
+      },
+      {
+        "part": "十",
+        "meaning": "じゅう (Ten)"
+      },
+      {
+        "part": "月",
+        "meaning": "つき (Moon)"
+      }
+    ],
+    "story": "Picture 十 and 日 combining to form 'Morning'."
+  },
+  {
+    "character": "昼",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "5",
+    "onyomi": [
+      "ちゅう",
+      "ひる"
+    ],
+    "kunyomi": [],
+    "meaning": "Noon",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "昼休み (ひるやすみ)",
+        "romaji": "ひるやすみ",
+        "english": "Lunch break"
+      },
+      {
+        "japanese": "昼食 (ちゅうしょく)",
+        "romaji": "ちゅうしょく",
+        "english": "Lunch"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "尺",
+        "meaning": "?"
+      },
+      {
+        "part": "日",
+        "meaning": "ひ (Sun)"
+      }
+    ],
+    "story": "Picture 尺 and 日 combining to form 'Noon'."
+  },
+  {
+    "character": "夜",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "6",
+    "onyomi": [
+      "や",
+      "よる",
+      "よ"
+    ],
+    "kunyomi": [],
+    "meaning": "Night",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "亠",
+        "meaning": "なべぶた (Lid)"
+      },
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "夕",
+        "meaning": "ゆうべ (Evening)"
+      },
+      {
+        "part": "乀",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 亠 and 人 combining to form 'Night'."
+  },
+  {
+    "character": "晩",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "7",
+    "onyomi": [
+      "ばん",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Night",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "今晩 (こんばん)",
+        "romaji": "こんばん",
+        "english": "Tonight"
+      },
+      {
+        "japanese": "晩ご飯 (ばんごはん)",
+        "romaji": "ばんごはん",
+        "english": "Dinner"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "日",
+        "meaning": "ひ (Sun)"
+      },
+      {
+        "part": "免",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 日 and 免 combining to form 'Night'."
+  },
+  {
+    "character": "町",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "8",
+    "onyomi": [
+      "ちょう",
+      "まち"
+    ],
+    "kunyomi": [],
+    "meaning": "Town",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "大きい町 (おおきいまち)",
+        "romaji": "おおきいまち",
+        "english": "big town"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "田",
+        "meaning": "た (Field)"
+      },
+      {
+        "part": "丁",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 田 and 丁 combining to form 'Town'."
+  },
+  {
+    "character": "山",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "9",
+    "onyomi": [
+      "さん",
+      "ざん",
+      "やま"
+    ],
+    "kunyomi": [],
+    "meaning": "Mountain",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "富士山 (ふじさん)",
+        "romaji": "ふじさん",
+        "english": "Mount Fuji"
+      },
+      {
+        "japanese": "日本の山 (にほんのやま)",
+        "romaji": "にほんのやま",
+        "english": "Japanese mountains"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "山",
+        "meaning": "やま (Mountain)"
+      }
+    ],
+    "story": "The radical 山 is the core essence of 'Mountain'."
+  },
+  {
+    "character": "白",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "10",
+    "onyomi": [
+      "はく"
+    ],
+    "kunyomi": [
+      "しろ（い）"
+    ],
+    "meaning": "White",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "白いかばん (しろいかばん)",
+        "romaji": "しろいかばん",
+        "english": "white bag"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "白",
+        "meaning": "しろ (White)"
+      }
+    ],
+    "story": "The radical 白 is the core essence of 'White'."
+  },
+  {
+    "character": "赤",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "11",
+    "onyomi": [
+      "せき"
+    ],
+    "kunyomi": [
+      "あか（い）"
+    ],
+    "meaning": "Red",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "土",
+        "meaning": "つち (Earth)"
+      },
+      {
+        "part": "八",
+        "meaning": "はち (Eight)"
+      },
+      {
+        "part": "小",
+        "meaning": "ちいさい (Small)"
+      }
+    ],
+    "story": "Picture 土 and 八 combining to form 'Red'."
+  },
+  {
+    "character": "青",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "12",
+    "onyomi": [
+      "せい"
+    ],
+    "kunyomi": [
+      "あお（い）"
+    ],
+    "meaning": "Blue",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "青いくつ (あおいくつ)",
+        "romaji": "あおいくつ",
+        "english": "blue shoes"
+      },
+      {
+        "japanese": "青空 (あおぞら)",
+        "romaji": "あおぞら",
+        "english": "blue sky"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "主",
+        "meaning": "?"
+      },
+      {
+        "part": "月",
+        "meaning": "つき (Moon)"
+      }
+    ],
+    "story": "Picture 主 and 月 combining to form 'Blue'."
+  },
+  {
+    "character": "黒",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "13",
+    "onyomi": [
+      "こく"
+    ],
+    "kunyomi": [
+      "くろ（い）"
+    ],
+    "meaning": "Black",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "黒い傘 (くろいかさ)",
+        "romaji": "くろいかさ",
+        "english": "black umbrella;"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "里",
+        "meaning": "さと (Village)"
+      },
+      {
+        "part": "灬",
+        "meaning": "れっか (Fire)"
+      }
+    ],
+    "story": "Picture 里 and 灬 combining to form 'Black'."
+  },
+  {
+    "character": "安",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "14",
+    "onyomi": [
+      "あん"
+    ],
+    "kunyomi": [
+      "やす（い）"
+    ],
+    "meaning": "Cheap",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "安い (パソコン)",
+        "romaji": "パソコン",
+        "english": "Cheap Laptop"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "宀",
+        "meaning": "うかんむり (Roof)"
+      },
+      {
+        "part": "女",
+        "meaning": "おんな (Woman)"
+      }
+    ],
+    "story": "Picture 宀 and 女 combining to form 'Cheap'."
+  },
+  {
+    "character": "高",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "15",
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "たか（い）"
+    ],
+    "meaning": "Expensive,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Tall"
+      },
+      {
+        "japanese": "高い山",
+        "romaji": "",
+        "english": "Tall Mountain"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "高",
+        "meaning": "たかい (High)"
+      }
+    ],
+    "story": "The radical 高 is the core essence of 'Expensive'."
+  },
+  {
+    "character": "小",
+    "level": "N5",
+    "lesson": "Lessons 7 & 8",
+    "pdf_id": "16",
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "ちい（さい）"
+    ],
+    "meaning": "Small, Tiny",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "小",
+        "meaning": "ちいさい (Small)"
+      }
+    ],
+    "story": "The radical 小 is the core essence of 'Small'."
+  },
+  {
+    "character": "男",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "1",
+    "onyomi": [
+      "だん",
+      "なん",
+      "おとこ"
+    ],
+    "kunyomi": [],
+    "meaning": "Man",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "男の人 (おとこのひと)",
+        "romaji": "おとこのひと",
+        "english": "Man"
+      },
+      {
+        "japanese": "男の子 (おとこのこ)",
+        "romaji": "おとこのこ",
+        "english": "Boy"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "田",
+        "meaning": "た (Field)"
+      },
+      {
+        "part": "力",
+        "meaning": "ちから (Power)"
+      }
+    ],
+    "story": "Picture 田 and 力 combining to form 'Man'."
+  },
+  {
+    "character": "女",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "2",
+    "onyomi": [
+      "じょ",
+      "おんな"
+    ],
+    "kunyomi": [],
+    "meaning": "Woman",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "女の子 (おんなのこ)",
+        "romaji": "おんなのこ",
+        "english": "Girl"
+      },
+      {
+        "japanese": "彼女 (かのじょ)",
+        "romaji": "かのじょ",
+        "english": "She, girlfriend"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "女",
+        "meaning": "おんな (Woman)"
+      }
+    ],
+    "story": "The radical 女 is the core essence of 'Woman'."
+  },
+  {
+    "character": "上",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "3",
+    "onyomi": [
+      "じょう",
+      "うえ"
+    ],
+    "kunyomi": [],
+    "meaning": "Above, Up",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "上",
+        "meaning": "?"
+      }
+    ],
+    "story": "The radical 上 is the core essence of 'Above'."
+  },
+  {
+    "character": "下",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "4",
+    "onyomi": [
+      "か",
+      "げ",
+      "した"
+    ],
+    "kunyomi": [],
+    "meaning": "Under, Down",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "下",
+        "meaning": "?"
+      }
+    ],
+    "story": "The radical 下 is the core essence of 'Under'."
+  },
+  {
+    "character": "左",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "5",
+    "onyomi": [
+      "さ",
+      "ひだり"
+    ],
+    "kunyomi": [],
+    "meaning": "Left",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "左手 (ひだりて)",
+        "romaji": "ひだりて",
+        "english": "Left hand"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "ナ",
+        "meaning": "?"
+      },
+      {
+        "part": "工",
+        "meaning": "たくみ (Work)"
+      }
+    ],
+    "story": "Picture ナ and 工 combining to form 'Left'."
+  },
+  {
+    "character": "右",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "6",
+    "onyomi": [
+      "ゆう",
+      "う",
+      "みぎ"
+    ],
+    "kunyomi": [],
+    "meaning": "Right",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "右手 (みぎりて)",
+        "romaji": "みぎりて",
+        "english": "Right hand"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "ナ",
+        "meaning": "?"
+      },
+      {
+        "part": "口",
+        "meaning": "くち (Mouth)"
+      }
+    ],
+    "story": "Picture ナ and 口 combining to form 'Right'."
+  },
+  {
+    "character": "中",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "7",
+    "onyomi": [
+      "ちゅう",
+      "じ",
+      "なか"
+    ],
+    "kunyomi": [],
+    "meaning": "Middle, Inside",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "中国 (ちゅうごく)",
+        "romaji": "ちゅうごく",
+        "english": "China"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ],
+    "parts": [
+      {
+        "part": "中",
+        "meaning": "?"
+      }
+    ],
+    "story": "The radical 中 is the core essence of 'Middle'."
+  },
+  {
+    "character": "門",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "8",
+    "onyomi": [
+      "もん",
+      "かど"
+    ],
+    "kunyomi": [],
+    "meaning": "Gate",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "門の前 (もんのまえ)",
+        "romaji": "もんのまえ",
+        "english": "In front of gate"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "間",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "9",
+    "onyomi": [
+      "かん",
+      "けん",
+      "あいだ",
+      "ま"
+    ],
+    "kunyomi": [],
+    "meaning": "Between",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "In between book shop and flower shop"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "近",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "10",
+    "onyomi": [
+      "きん"
+    ],
+    "kunyomi": [
+      "ちか（い）"
+    ],
+    "meaning": "Near",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "ポストの近く (ポストのちかく)",
+        "romaji": "ポストのちかく",
+        "english": "Nearby"
+      },
+      {
+        "japanese": "近所 (きんじょ)",
+        "romaji": "きんじょ",
+        "english": "Neighborhood"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "魚",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "11",
+    "onyomi": [
+      "ぎょ",
+      "さかな",
+      "うお"
+    ],
+    "kunyomi": [],
+    "meaning": "Fish",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "手",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "12",
+    "onyomi": [
+      "しゅ",
+      "て"
+    ],
+    "kunyomi": [],
+    "meaning": "Hand",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "手帳 (てちょう)",
+        "romaji": "てちょう",
+        "english": "Planner"
+      },
+      {
+        "japanese": "上手 (じょうず)",
+        "romaji": "じょうず",
+        "english": "Skilled"
+      },
+      {
+        "japanese": "手紙 (てがみ)",
+        "romaji": "てがみ",
+        "english": "Letter"
+      },
+      {
+        "japanese": "歌手 (かしゅ)",
+        "romaji": "かしゅ",
+        "english": "Singer"
+      },
+      {
+        "japanese": "下手 (へた)",
+        "romaji": "へた",
+        "english": "Bad at~"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "犬",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "13",
+    "onyomi": [
+      "けん",
+      "いぬ"
+    ],
+    "kunyomi": [],
+    "meaning": "Dog",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "子犬 (こいぬ)",
+        "romaji": "こいぬ",
+        "english": "Puppy"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "早",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "14",
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "はや（い）"
+    ],
+    "meaning": "Early",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "計",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "15",
+    "onyomi": [
+      "けい"
+    ],
+    "kunyomi": [
+      "はか（る）"
+    ],
+    "meaning": "Measure,Weigh",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "時計 (とけい)",
+        "romaji": "とけい",
+        "english": "Clock"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "外",
+    "level": "N5",
+    "lesson": "Lessons 9 & 10",
+    "pdf_id": "16",
+    "onyomi": [
+      "がい",
+      "そと"
+    ],
+    "kunyomi": [],
+    "meaning": "Outside",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "外国 (がいこく)",
+        "romaji": "がいこく",
+        "english": "Foriegn country"
+      },
+      {
+        "japanese": "外国人 (がいこくじん)",
+        "romaji": "がいこくじん",
+        "english": "Foriegner"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "兄",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "1",
+    "onyomi": [
+      "けい",
+      "きょう",
+      "あに"
+    ],
+    "kunyomi": [],
+    "meaning": "Elder brother",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "兄 (あに)",
+        "romaji": "あに",
+        "english": "My elder brother"
+      },
+      {
+        "japanese": "お兄さん (おにいさん)",
+        "romaji": "おにいさん",
+        "english": "Someones’s elder brother"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "弟",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "2",
+    "onyomi": [
+      "てい",
+      "だい",
+      "おとうと"
+    ],
+    "kunyomi": [],
+    "meaning": "Younger brother",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "兄弟 (きょうだい)",
+        "romaji": "きょうだい",
+        "english": "Siblings"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "姉",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "3",
+    "onyomi": [
+      "し",
+      "あね"
+    ],
+    "kunyomi": [],
+    "meaning": "Elder sister",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "お姉さん (おねえさん)",
+        "romaji": "おねえさん",
+        "english": "Someone’s elder sister"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "妹",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "4",
+    "onyomi": [
+      "まい",
+      "いもうと"
+    ],
+    "kunyomi": [],
+    "meaning": "Younger sister",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "姉妹 (しまい)",
+        "romaji": "しまい",
+        "english": "Sisters"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "家",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "5",
+    "onyomi": [
+      "か",
+      "け",
+      "いえ",
+      "や"
+    ],
+    "kunyomi": [],
+    "meaning": "House",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "家賃 (やちん)",
+        "romaji": "やちん",
+        "english": "House rent"
+      },
+      {
+        "japanese": "家具 (かぐ)",
+        "romaji": "かぐ",
+        "english": "Furniture"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "族",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "6",
+    "onyomi": [
+      "ぞく",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Family",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "家族 (かぞく)",
+        "romaji": "かぞく",
+        "english": "Family"
+      },
+      {
+        "japanese": "水族館 (すいぞくかん)",
+        "romaji": "すいぞくかん",
+        "english": "Aquarium"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "春",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "7",
+    "onyomi": [
+      "しゅん",
+      "はる"
+    ],
+    "kunyomi": [],
+    "meaning": "Spring",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "春の花 (はるのはな)",
+        "romaji": "はるのはな",
+        "english": "Spring flowers"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "夏",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "8",
+    "onyomi": [
+      "か",
+      "げ",
+      "なつ"
+    ],
+    "kunyomi": [],
+    "meaning": "Summer",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "夏休み (なつやすみ)",
+        "romaji": "なつやすみ",
+        "english": "Summer holidays"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "秋",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "9",
+    "onyomi": [
+      "しゅう",
+      "あき"
+    ],
+    "kunyomi": [],
+    "meaning": "Autumn",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "冬",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "10",
+    "onyomi": [
+      "とう",
+      "ふゆ"
+    ],
+    "kunyomi": [],
+    "meaning": "Winter",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "冬の朝 (ふゆのあさ)",
+        "romaji": "ふゆのあさ",
+        "english": "Winter morning"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "気",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "11",
+    "onyomi": [
+      "き",
+      "け",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Air, Spirit",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "天気 (てんき)",
+        "romaji": "てんき",
+        "english": "Weather"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "天",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "12",
+    "onyomi": [
+      "てん",
+      "あま"
+    ],
+    "kunyomi": [],
+    "meaning": "Heavens",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "天気 (てんき)",
+        "romaji": "てんき",
+        "english": "Weather"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "多",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "13",
+    "onyomi": [
+      "た"
+    ],
+    "kunyomi": [
+      "おお（い）"
+    ],
+    "meaning": "Many",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "元",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "15",
+    "onyomi": [
+      "げん",
+      "がん",
+      "もと"
+    ],
+    "kunyomi": [],
+    "meaning": "Origin",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "歩",
+    "level": "N5",
+    "lesson": "Lessons 11 & 12",
+    "pdf_id": "16",
+    "onyomi": [
+      "ほ"
+    ],
+    "kunyomi": [
+      "ある（きます）"
+    ],
+    "meaning": "Walk",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "入",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "1",
+    "onyomi": [
+      "にゅう"
+    ],
+    "kunyomi": [
+      "はい（ります）"
+    ],
+    "meaning": "Enter, Insert",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "出",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "2",
+    "onyomi": [
+      "しゅつ"
+    ],
+    "kunyomi": [
+      "で（ます）"
+    ],
+    "meaning": "To go out",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "外出 (がいしゅつ)",
+        "romaji": "がいしゅつ",
+        "english": "Outing/ going out"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "広",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "3",
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "ひろ（い）"
+    ],
+    "meaning": "Spacious",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "止",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "4",
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "と（めます）"
+    ],
+    "meaning": "Stop,Halt",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "雨",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "5",
+    "onyomi": [
+      "う",
+      "あめ",
+      "あま"
+    ],
+    "kunyomi": [],
+    "meaning": "Rain",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "梅雨 (つゆ)",
+        "romaji": "つゆ",
+        "english": "Rainy season"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "開",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "6",
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "あ（けます）"
+    ],
+    "meaning": "Open",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "海",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "7",
+    "onyomi": [
+      "かい",
+      "うみ"
+    ],
+    "kunyomi": [],
+    "meaning": "Sea",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "北海道 (ほっかいどう)",
+        "romaji": "ほっかいどう",
+        "english": "Hokkaido"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "川",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "8",
+    "onyomi": [
+      "せん",
+      "かわ"
+    ],
+    "kunyomi": [],
+    "meaning": "River",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "世",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "9",
+    "onyomi": [
+      "せい",
+      "せ",
+      "よ"
+    ],
+    "kunyomi": [],
+    "meaning": "Generation",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "界",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "10",
+    "onyomi": [
+      "かい",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "World",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "世界 (せかい)",
+        "romaji": "せかい",
+        "english": "World"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "画",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "11",
+    "onyomi": [
+      "が",
+      "かく",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Picture",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "画家 (がか)",
+        "romaji": "がか",
+        "english": "Painter"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "映",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "12",
+    "onyomi": [
+      "えい"
+    ],
+    "kunyomi": [
+      "うつ（します）"
+    ],
+    "meaning": "Reflection",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "映画 (えいが)",
+        "romaji": "えいが",
+        "english": "Movie"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "花",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "13",
+    "onyomi": [
+      "か",
+      "はな"
+    ],
+    "kunyomi": [],
+    "meaning": "Flower",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "生け花 (いけばな)",
+        "romaji": "いけばな",
+        "english": "Flower arrangement"
+      },
+      {
+        "japanese": "花見をします。 (はなみをします。)",
+        "romaji": "はなみをします。",
+        "english": "Cherry blossom view"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "茶",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "14",
+    "onyomi": [
+      "ちゃ",
+      "さ",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Tea",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "喫茶店 (きっさてん)",
+        "romaji": "きっさてん",
+        "english": "Coffee shop"
+      },
+      {
+        "japanese": "紅茶 (こうちゃ)",
+        "romaji": "こうちゃ",
+        "english": "Black tea"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "語",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "15",
+    "onyomi": [
+      "ご"
+    ],
+    "kunyomi": [
+      "かた（ります）"
+    ],
+    "meaning": "Language",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "日本語 (にほんご)",
+        "romaji": "にほんご",
+        "english": "Japanese"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "英",
+    "level": "N5",
+    "lesson": "Lessons 13 & 14",
+    "pdf_id": "16",
+    "onyomi": [
+      "えい",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "English",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "英語 (えいご)",
+        "romaji": "えいご",
+        "english": "English"
+      },
+      {
+        "japanese": "英国 (えいこく)",
+        "romaji": "えいこく",
+        "english": "England"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "体",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "1",
+    "onyomi": [
+      "たい",
+      "からだ"
+    ],
+    "kunyomi": [],
+    "meaning": "Body",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "体重 (たいじゅう)",
+        "romaji": "たいじゅう",
+        "english": "Body weight"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "足",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "2",
+    "onyomi": [
+      "そく",
+      "あし"
+    ],
+    "kunyomi": [
+      "た（ります）"
+    ],
+    "meaning": "Leg,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "た（します）",
+        "romaji": "",
+        "english": "Sufficient"
+      },
+      {
+        "japanese": "手と足 (てとあし)",
+        "romaji": "てとあし",
+        "english": "Hand and leg"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "口",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "3",
+    "onyomi": [
+      "こう",
+      "くち"
+    ],
+    "kunyomi": [],
+    "meaning": "Body",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "口の中 (くちのなか)",
+        "romaji": "くちのなか",
+        "english": "Inside the mouth"
+      },
+      {
+        "japanese": "出口 (でぐち)",
+        "romaji": "でぐち",
+        "english": "Exit"
+      },
+      {
+        "japanese": "入口 (いりぐち)",
+        "romaji": "いりぐち",
+        "english": "Entrance"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "顔",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "4",
+    "onyomi": [
+      "がん",
+      "かお"
+    ],
+    "kunyomi": [],
+    "meaning": "Face",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Make the portrait"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "耳",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "5",
+    "onyomi": [
+      "じ",
+      "みみ"
+    ],
+    "kunyomi": [],
+    "meaning": "Ear",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "左耳 (ひだりみみ)",
+        "romaji": "ひだりみみ",
+        "english": "Left ear"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "目",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "6",
+    "onyomi": [
+      "もく",
+      "め"
+    ],
+    "kunyomi": [],
+    "meaning": "Eyes",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "青い目 (あおいめ)",
+        "romaji": "あおいめ",
+        "english": "blue eyes"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "立",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "7",
+    "onyomi": [
+      "りつ"
+    ],
+    "kunyomi": [
+      "た（ちます）"
+    ],
+    "meaning": "Stand",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "知",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "8",
+    "onyomi": [
+      "ち"
+    ],
+    "kunyomi": [
+      "し（ります）"
+    ],
+    "meaning": "Know",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "知人 (ちじん)",
+        "romaji": "ちじん",
+        "english": "Friend/ aquaintance"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "住",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "9",
+    "onyomi": [
+      "じゅう"
+    ],
+    "kunyomi": [
+      "す（みます）"
+    ],
+    "meaning": "Reside",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "住所 (じゅうしょ)",
+        "romaji": "じゅうしょ",
+        "english": "Address"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "思",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "10",
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "おも（います）"
+    ],
+    "meaning": "Think",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "使",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "11",
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "つか（います）"
+    ],
+    "meaning": "Use",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "使用 (しよう)",
+        "romaji": "しよう",
+        "english": "Use/ application"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "作",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "12",
+    "onyomi": [
+      "さく",
+      "さ"
+    ],
+    "kunyomi": [
+      "つく（ります）"
+    ],
+    "meaning": "Prepare, Make",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "作文 (さくぶん)",
+        "romaji": "さくぶん",
+        "english": "Essay/ composition"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "品",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "13",
+    "onyomi": [
+      "ひん",
+      "しな"
+    ],
+    "kunyomi": [],
+    "meaning": "Goods, Products",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "品物 (しなもの)",
+        "romaji": "しなもの",
+        "english": "Goods"
+      },
+      {
+        "japanese": "製品 (せいひん)",
+        "romaji": "せいひん",
+        "english": "Manufactured products"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "長",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "14",
+    "onyomi": [
+      "ちょう"
+    ],
+    "kunyomi": [
+      "なが（い）"
+    ],
+    "meaning": "Long",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "校長 (こうちょう)",
+        "romaji": "こうちょう",
+        "english": "School principal"
+      },
+      {
+        "japanese": "店長 (てんちょう)",
+        "romaji": "てんちょう",
+        "english": "Shop manager"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "明",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "15",
+    "onyomi": [
+      "めい",
+      "みょう"
+    ],
+    "kunyomi": [
+      "あか（るい）"
+    ],
+    "meaning": "Bright",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "明日 (あした)",
+        "romaji": "あした",
+        "english": "Tomorrow"
+      },
+      {
+        "japanese": "説明 (せつめい)",
+        "romaji": "せつめい",
+        "english": "Explaination"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "肉",
+    "level": "N5",
+    "lesson": "Lessons 15 & 16",
+    "pdf_id": "16",
+    "onyomi": [
+      "にく",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Meat",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "牛肉 (ぎゅうにく)",
+        "romaji": "ぎゅうにく",
+        "english": "Beef"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "問",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "1",
+    "onyomi": [
+      "もん"
+    ],
+    "kunyomi": [
+      "と（います）"
+    ],
+    "meaning": "Question",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "答",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "2",
+    "onyomi": [
+      "とう"
+    ],
+    "kunyomi": [
+      "こた（えます）"
+    ],
+    "meaning": "Answer",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "心",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "3",
+    "onyomi": [
+      "しん",
+      "こころ"
+    ],
+    "kunyomi": [],
+    "meaning": "Heart,Spirit",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "安心 (あんしん)",
+        "romaji": "あんしん",
+        "english": "Relief"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "配",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "4",
+    "onyomi": [
+      "はい"
+    ],
+    "kunyomi": [
+      "くば（ります）"
+    ],
+    "meaning": "Distribute",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "心配します。 (しんぱいします。)",
+        "romaji": "しんぱいします。",
+        "english": "Worry/ anxious"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "子",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "5",
+    "onyomi": [
+      "し",
+      "す",
+      "こ"
+    ],
+    "kunyomi": [],
+    "meaning": "Child",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "男の子 (おとこのこ)",
+        "romaji": "おとこのこ",
+        "english": "Boy"
+      },
+      {
+        "japanese": "女の子 (おんなのこ)",
+        "romaji": "おんなのこ",
+        "english": "Girl"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "売",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "6",
+    "onyomi": [
+      "ばい"
+    ],
+    "kunyomi": [
+      "う（ります）"
+    ],
+    "meaning": "Sell",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "売店 (ばいてん)",
+        "romaji": "ばいてん",
+        "english": "Shop"
+      },
+      {
+        "japanese": "売り場 (うりば)",
+        "romaji": "うりば",
+        "english": "Sales counter"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "場",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "7",
+    "onyomi": [
+      "しょう",
+      "ば"
+    ],
+    "kunyomi": [],
+    "meaning": "Location,Place",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "売り場 (うりば)",
+        "romaji": "うりば",
+        "english": "Sales counter"
+      },
+      {
+        "japanese": "会場 (かいじょう)",
+        "romaji": "かいじょう",
+        "english": "Meeting hall"
+      },
+      {
+        "japanese": "市場 (いちば)",
+        "romaji": "いちば",
+        "english": "Market place"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "字",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "8",
+    "onyomi": [
+      "じ",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Letter",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "数字 (すうじ)",
+        "romaji": "すうじ",
+        "english": "Numeric character"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "漢",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "9",
+    "onyomi": [
+      "かん",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Chinese people",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "漢字 (かんじ)",
+        "romaji": "かんじ",
+        "english": "Chinese character"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "料",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "10",
+    "onyomi": [
+      "りょう",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Materials, Fee",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "無料 (むりょう)",
+        "romaji": "むりょう",
+        "english": "Free of charge"
+      },
+      {
+        "japanese": "給料 (きゅうりょう)",
+        "romaji": "きゅうりょう",
+        "english": "Salary"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "理",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "11",
+    "onyomi": [
+      "り",
+      "ー"
+    ],
+    "kunyomi": [],
+    "meaning": "Reason,Logic",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "料理 (りょうり)",
+        "romaji": "りょうり",
+        "english": "Cuisine/ dishes"
+      },
+      {
+        "japanese": "理由 (りゆう)",
+        "romaji": "りゆう",
+        "english": "Reason"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "主",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "12",
+    "onyomi": [
+      "ぬし",
+      "おも",
+      "しゅ"
+    ],
+    "kunyomi": [],
+    "meaning": "Master, Head",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "主人 (しゅじん)",
+        "romaji": "しゅじん",
+        "english": "Husband"
+      },
+      {
+        "japanese": "持ち主 (もちぬし)",
+        "romaji": "もちぬし",
+        "english": "Owner/ propieter"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "着",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "13",
+    "onyomi": [
+      "ちゃく"
+    ],
+    "kunyomi": [
+      "き（ます）"
+    ],
+    "meaning": "Wear, Arrive",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "着物 (きもの)",
+        "romaji": "きもの",
+        "english": "Kimono"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "新",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "14",
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "あたら（しい）"
+    ],
+    "meaning": "New",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "新しい (あたらしい)",
+        "romaji": "あたらしい",
+        "english": "new"
+      },
+      {
+        "japanese": "新聞 (しんぶん)",
+        "romaji": "しんぶん",
+        "english": "Newspaper"
+      },
+      {
+        "japanese": "新年 (しんねん)",
+        "romaji": "しんねん",
+        "english": "New year"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "古",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "15",
+    "onyomi": [
+      "こ"
+    ],
+    "kunyomi": [
+      "ふる（い）"
+    ],
+    "meaning": "Old",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "古い町 (ふるいまち)",
+        "romaji": "ふるいまち",
+        "english": "old town"
+      },
+      {
+        "japanese": "中古 (ちゅうこ)",
+        "romaji": "ちゅうこ",
+        "english": "Used/ secondhand"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "持",
+    "level": "N5",
+    "lesson": "Lessons 17 & 18",
+    "pdf_id": "16",
+    "onyomi": [
+      "じ"
+    ],
+    "kunyomi": [
+      "も（ちます）"
+    ],
+    "meaning": "Carry, Hold",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "持ち物 (もちもの)",
+        "romaji": "もちもの",
+        "english": "One’s property"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "電",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "１",
+    "onyomi": [
+      "でん"
+    ],
+    "kunyomi": [],
+    "meaning": "Electricity",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "電車 (でんしゃ)",
+        "romaji": "でんしゃ",
+        "english": "train"
+      },
+      {
+        "japanese": "電気 (でんき)",
+        "romaji": "でんき",
+        "english": "electricity"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "話",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "２",
+    "onyomi": [
+      "わ",
+      "はなし"
+    ],
+    "kunyomi": [],
+    "meaning": "Talk",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "電話 (でんわ)",
+        "romaji": "でんわ",
+        "english": "telephone"
+      },
+      {
+        "japanese": "話す (はなす)",
+        "romaji": "はなす",
+        "english": "speak"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "音",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "3",
+    "onyomi": [
+      "おん",
+      "おと"
+    ],
+    "kunyomi": [],
+    "meaning": "Sound",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "音 (おと)",
+        "romaji": "おと",
+        "english": "Sound"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "楽",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "４",
+    "onyomi": [
+      "がく"
+    ],
+    "kunyomi": [
+      "たの（しい）"
+    ],
+    "meaning": "Enjoyable,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Delightful"
+      },
+      {
+        "japanese": "音楽 (おんがく)",
+        "romaji": "おんがく",
+        "english": "music"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "歌",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "５",
+    "onyomi": [
+      "か",
+      "うた"
+    ],
+    "kunyomi": [],
+    "meaning": "Song",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "度",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "６",
+    "onyomi": [
+      "ど",
+      "たび"
+    ],
+    "kunyomi": [],
+    "meaning": "Frequency,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Degree"
+      },
+      {
+        "japanese": "一度 (いちど)",
+        "romaji": "いちど",
+        "english": "once"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "教",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "７",
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [
+      "おし（える）"
+    ],
+    "meaning": "Teach",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "教師 (きょうし)",
+        "romaji": "きょうし",
+        "english": "teacher"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "習",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "８",
+    "onyomi": [
+      "しゅう"
+    ],
+    "kunyomi": [
+      "なら（う）"
+    ],
+    "meaning": "Learn",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "練習 (れんしゅう)",
+        "romaji": "れんしゅう",
+        "english": "practice"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "貸",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "９",
+    "onyomi": [
+      "たい"
+    ],
+    "kunyomi": [
+      "か（す）"
+    ],
+    "meaning": "To lend",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "借",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "１０",
+    "onyomi": [
+      "しゃく"
+    ],
+    "kunyomi": [
+      "か（りる）"
+    ],
+    "meaning": "To borrow",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "送",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "１１",
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "おく（る）"
+    ],
+    "meaning": "To send",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "強",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "１２",
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [
+      "つよ（い）"
+    ],
+    "meaning": "Strong,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Powerful"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "勉",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "１３",
+    "onyomi": [
+      "べん",
+      "つとむ"
+    ],
+    "kunyomi": [],
+    "meaning": "Encourage,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Make effort"
+      },
+      {
+        "japanese": "勉強する。べんきょうする。",
+        "romaji": "",
+        "english": "study"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "旅",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "１４",
+    "onyomi": [
+      "りょ",
+      "たび"
+    ],
+    "kunyomi": [],
+    "meaning": "Travel/ Trip",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "旅行する。りょこうする。",
+        "romaji": "",
+        "english": "travel"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "室",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "１５",
+    "onyomi": [
+      "しつ",
+      "むろ"
+    ],
+    "kunyomi": [],
+    "meaning": "Room",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "教室 (きょうしつ)",
+        "romaji": "きょうしつ",
+        "english": "class room"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "登",
+    "level": "N5",
+    "lesson": "Lessons 19 & 20",
+    "pdf_id": "１６",
+    "onyomi": [
+      "と"
+    ],
+    "kunyomi": [
+      "のぼ（る）"
+    ],
+    "meaning": "To climb",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "不",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "１",
+    "onyomi": [
+      "ふ"
+    ],
+    "kunyomi": [],
+    "meaning": "Negative/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Non-"
+      },
+      {
+        "japanese": "不便 (ふべん)",
+        "romaji": "ふべん",
+        "english": "inconvenience"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "始",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "２",
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "はじ（める）"
+    ],
+    "meaning": "To start/begin",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "言",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "３",
+    "onyomi": [
+      "げん"
+    ],
+    "kunyomi": [
+      "い（う）"
+    ],
+    "meaning": "To say",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "意",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "４",
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [],
+    "meaning": "Idea, mind",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "意見",
+        "romaji": "",
+        "english": "opinion"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "事",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "５",
+    "onyomi": [
+      "じ",
+      "こと"
+    ],
+    "kunyomi": [],
+    "meaning": "Thing/ matter",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "事務所 (じむしょ)",
+        "romaji": "じむしょ",
+        "english": "office"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "仕",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "６",
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "つか（える）"
+    ],
+    "meaning": "To serve,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "To work for"
+      },
+      {
+        "japanese": "仕事 (しごと)",
+        "romaji": "しごと",
+        "english": "work"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "病",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "７",
+    "onyomi": [
+      "びょう"
+    ],
+    "kunyomi": [
+      "や（む）"
+    ],
+    "meaning": "To fall sick",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "病気 (びょうき)",
+        "romaji": "びょうき",
+        "english": "illness"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "院",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "８",
+    "onyomi": [
+      "いん"
+    ],
+    "kunyomi": [],
+    "meaning": "Institution",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "病院 (びょういん)",
+        "romaji": "びょういん",
+        "english": "hospital"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "医",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "９",
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [],
+    "meaning": "Medicine",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "者",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "１０",
+    "onyomi": [
+      "しゃ",
+      "もの"
+    ],
+    "kunyomi": [],
+    "meaning": "Person,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Someone"
+      },
+      {
+        "japanese": "医者 (いしゃ)",
+        "romaji": "いしゃ",
+        "english": "doctor"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "堂",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "１１",
+    "onyomi": [
+      "どう"
+    ],
+    "kunyomi": [],
+    "meaning": "Hall,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Public chamber"
+      },
+      {
+        "japanese": "食堂 (しょくどう)",
+        "romaji": "しょくどう",
+        "english": "dining hall"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "屋",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "１２",
+    "onyomi": [
+      "おく",
+      "や"
+    ],
+    "kunyomi": [],
+    "meaning": "Shop/ Store",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "本屋 (ほんや)",
+        "romaji": "ほんや",
+        "english": "bookstore"
+      },
+      {
+        "japanese": "部屋 (へや)",
+        "romaji": "へや",
+        "english": "room"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "用",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "１３",
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "もち（いる）"
+    ],
+    "meaning": "Business,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Utilize,Service"
+      },
+      {
+        "japanese": "用事 (ようじ)",
+        "romaji": "ようじ",
+        "english": "business"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "有",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "１４",
+    "onyomi": [
+      "ゆう"
+    ],
+    "kunyomi": [
+      "あ（る）"
+    ],
+    "meaning": "To exist/ live",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "有名な大学 (ゆうめいなだいがく)",
+        "romaji": "ゆうめいなだいがく",
+        "english": "Famous college"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "店",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "１５",
+    "onyomi": [
+      "てん",
+      "みせ"
+    ],
+    "kunyomi": [],
+    "meaning": "Shop/ Store",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "きれいな店 (きれいなみせ)",
+        "romaji": "きれいなみせ",
+        "english": "Beautiful shop"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "民",
+    "level": "N5",
+    "lesson": "Lessons 21 & 22",
+    "pdf_id": "１６",
+    "onyomi": [
+      "みん",
+      "たみ"
+    ],
+    "kunyomi": [],
+    "meaning": "Citizens,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "People"
+      },
+      {
+        "japanese": "国民 (こくみん)",
+        "romaji": "こくみん",
+        "english": "nation"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "正",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "１",
+    "onyomi": [
+      "せい"
+    ],
+    "kunyomi": [
+      "ただ（しい）"
+    ],
+    "meaning": "Correct",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "お正月 (おしょうがつ)",
+        "romaji": "おしょうがつ",
+        "english": "New Years’day"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "銀",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "２",
+    "onyomi": [
+      "ぎん",
+      "しろがね"
+    ],
+    "kunyomi": [],
+    "meaning": "Gold",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "銀行 (ぎんこう)",
+        "romaji": "ぎんこう",
+        "english": "bank"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "図",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "３",
+    "onyomi": [
+      "と"
+    ],
+    "kunyomi": [
+      "はか（る）"
+    ],
+    "meaning": "Drawing,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "ず",
+        "romaji": "",
+        "english": "Map"
+      },
+      {
+        "japanese": "地図 (ちず)",
+        "romaji": "ちず",
+        "english": "map"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "館",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "４",
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [],
+    "meaning": "Building,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Mansion"
+      },
+      {
+        "japanese": "図書館 (としょかん)",
+        "romaji": "としょかん",
+        "english": "library"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "道",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "５",
+    "onyomi": [
+      "どう",
+      "みち"
+    ],
+    "kunyomi": [],
+    "meaning": "Road",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "自",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "６",
+    "onyomi": [
+      "じ",
+      "みずから"
+    ],
+    "kunyomi": [],
+    "meaning": "Oneself",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "動",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "７",
+    "onyomi": [
+      "どう"
+    ],
+    "kunyomi": [
+      "うご（く）"
+    ],
+    "meaning": "To move/shift",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "動物 (どうぶつ)",
+        "romaji": "どうぶつ",
+        "english": "animal"
+      },
+      {
+        "japanese": "自動車 (じどうしゃ)",
+        "romaji": "じどうしゃ",
+        "english": "car"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "建",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "８",
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [
+      "たて（る）"
+    ],
+    "meaning": "To build/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "construct"
+      },
+      {
+        "japanese": "建物 (たてもの)",
+        "romaji": "たてもの",
+        "english": "building"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "特",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "９",
+    "onyomi": [
+      "とく"
+    ],
+    "kunyomi": [],
+    "meaning": "Special",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "特に (とくに)",
+        "romaji": "とくに",
+        "english": "specifically/ specially"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "終",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "１０",
+    "onyomi": [
+      "しゅう"
+    ],
+    "kunyomi": [
+      "お（わる）"
+    ],
+    "meaning": "Over/End",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "駅",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "１１",
+    "onyomi": [
+      "えき"
+    ],
+    "kunyomi": [],
+    "meaning": "Railway Station",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "写",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "１２",
+    "onyomi": [
+      "しゃ"
+    ],
+    "kunyomi": [
+      "うつ（す）"
+    ],
+    "meaning": "To",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "imitate/copy"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "真",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "１３",
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [],
+    "meaning": "Reality/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Truth"
+      },
+      {
+        "japanese": "写真 (しゃしん)",
+        "romaji": "しゃしん",
+        "english": "photograph"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "牛",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "１４",
+    "onyomi": [
+      "ぎゅう",
+      "うし"
+    ],
+    "kunyomi": [],
+    "meaning": "Cow",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "牛乳 (ぎゅうにゅう)",
+        "romaji": "ぎゅうにゅう",
+        "english": "milk"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "林",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "１５",
+    "onyomi": [
+      "りん",
+      "はやし"
+    ],
+    "kunyomi": [],
+    "meaning": "Woods/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Grove"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Inside the woods"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "森",
+    "level": "N5",
+    "lesson": "Lessons 23 & 24",
+    "pdf_id": "１６",
+    "onyomi": [
+      "しん",
+      "もり"
+    ],
+    "kunyomi": [],
+    "meaning": "Forest",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Quiet forest"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "田",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "１",
+    "onyomi": [
+      "でん",
+      "た"
+    ],
+    "kunyomi": [],
+    "meaning": "Rice field/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "paddy"
+      },
+      {
+        "japanese": "田中さん (たなかさん)",
+        "romaji": "たなかさん",
+        "english": "Mr．Tanaka"
+      },
+      {
+        "japanese": "田舎 (いなか)",
+        "romaji": "いなか",
+        "english": "country"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "考",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "２",
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "かんが（える）"
+    ],
+    "meaning": "To think/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "ponder"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "親",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "３",
+    "onyomi": [
+      "しん",
+      "おや"
+    ],
+    "kunyomi": [],
+    "meaning": "Parent",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "両親 (りょうしん)",
+        "romaji": "りょうしん",
+        "english": "parents"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "切",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "４",
+    "onyomi": [
+      "せつ"
+    ],
+    "kunyomi": [
+      "き（る）"
+    ],
+    "meaning": "Cut",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "切手 (きって)",
+        "romaji": "きって",
+        "english": "stamp"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "試",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "５",
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "ため（す）"
+    ],
+    "meaning": "Test/ Try",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "験",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "６",
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [],
+    "meaning": "Test/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Verification"
+      },
+      {
+        "japanese": "試験 (しけん)",
+        "romaji": "しけん",
+        "english": "examination"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "部",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "７",
+    "onyomi": [
+      "ぶ"
+    ],
+    "kunyomi": [],
+    "meaning": "Department/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Section"
+      },
+      {
+        "japanese": "部長 (ぶちょう)",
+        "romaji": "ぶちょう",
+        "english": "director of a department"
+      },
+      {
+        "japanese": "部屋 (へや)",
+        "romaji": "へや",
+        "english": "room"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "文",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "８",
+    "onyomi": [
+      "ぶん",
+      "ふみ"
+    ],
+    "kunyomi": [],
+    "meaning": "Literature/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "もん",
+        "romaji": "",
+        "english": "Sentence"
+      },
+      {
+        "japanese": "文型 (ぶんけい)",
+        "romaji": "ぶんけい",
+        "english": "sentence pattern"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "歳",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "９",
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [],
+    "meaning": "Age",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "十九歳 (じゅうじゅうさい 19)",
+        "romaji": "じゅうじゅうさい 19",
+        "english": "years old"
+      },
+      {
+        "japanese": "二十歳 (はたち 20)",
+        "romaji": "はたち 20",
+        "english": "years old"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "留",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "１０",
+    "onyomi": [
+      "りゅう"
+    ],
+    "kunyomi": [
+      "とど（まる）"
+    ],
+    "meaning": "Stop/ Halt",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "留学生 (りゅうがくせい)",
+        "romaji": "りゅうがくせい",
+        "english": "foregin students"
+      },
+      {
+        "japanese": "留学します。 (りゅうがくします。)",
+        "romaji": "りゅうがくします。",
+        "english": "Study abroad"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "議",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "１１",
+    "onyomi": [
+      "ぎ"
+    ],
+    "kunyomi": [],
+    "meaning": "Consultation/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Consideration"
+      },
+      {
+        "japanese": "会議室 (かいぎしつ)",
+        "romaji": "かいぎしつ",
+        "english": "meeting room"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "散",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "１２",
+    "onyomi": [
+      "さん"
+    ],
+    "kunyomi": [
+      "ち（る）"
+    ],
+    "meaning": "To spread/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Run"
+      },
+      {
+        "japanese": "散歩します。さんぽします。",
+        "romaji": "",
+        "english": "Take a walk"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "浴",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "１３",
+    "onyomi": [
+      "よく"
+    ],
+    "kunyomi": [
+      "あ（びる）"
+    ],
+    "meaning": "To take bath",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "降",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "１４",
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "お（りる）"
+    ],
+    "meaning": "To get off/",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "To fall"
+      },
+      {
+        "japanese": "雨が降ります。あめがふります。",
+        "romaji": "",
+        "english": "rain"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "欲",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "１５",
+    "onyomi": [
+      "よく"
+    ],
+    "kunyomi": [
+      "ほ（しい）"
+    ],
+    "meaning": "Want, Need",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "億",
+    "level": "N5",
+    "lesson": "Lesson 25",
+    "pdf_id": "１６",
+    "onyomi": [
+      "おく",
+      "100"
+    ],
+    "kunyomi": [],
+    "meaning": "Million",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "One hundred million yen"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "COPYRIGHT(c)ZENKEN CORPORATION.ALL RIGHTS RESERVED."
+      }
+    ]
+  },
+  {
+    "character": "県",
+    "level": "N4",
+    "lesson": "３ ４ 課",
+    "pdf_id": "5",
+    "onyomi": [
+      "けん"
+    ],
+    "kunyomi": [],
+    "meaning": "Prefecture",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "千葉県 (ちばけん)",
+        "romaji": "ちばけん",
+        "english": "Chiba prefecture"
+      },
+      {
+        "japanese": "都道府県 (とどうふけん)",
+        "romaji": "とどうふけん",
+        "english": "Administrative divions"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "of Japan"
+      }
+    ],
+    "parts": [
+      {
+        "part": "目",
+        "meaning": "め (Eye)"
+      },
+      {
+        "part": "小",
+        "meaning": "ちいさい (Small)"
+      }
+    ],
+    "story": "Picture 目 and 小 combining to form 'Prefecture'."
+  },
+  {
+    "character": "都",
+    "level": "N4",
+    "lesson": "３ ４ 課",
+    "pdf_id": "6",
+    "onyomi": [
+      "と",
+      "つ",
+      "みやこ"
+    ],
+    "kunyomi": [],
+    "meaning": "Capital",
+    "stroke_count": 0,
+    "examples": [],
+    "parts": [
+      {
+        "part": "者",
+        "meaning": "?"
+      },
+      {
+        "part": "阝",
+        "meaning": "こざとへん (Mound/Town)"
+      }
+    ],
+    "story": "Picture 者 and 阝 combining to form 'Capital'."
+  },
+  {
+    "character": "合",
+    "level": "N4",
+    "lesson": "３ ４ 課",
+    "pdf_id": "7",
+    "onyomi": [
+      "ごう",
+      "がっ"
+    ],
+    "kunyomi": [
+      "あ（います）",
+      "あ（わし"
+    ],
+    "meaning": "Suit, Fit",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "都合 (つごう)",
+        "romaji": "つごう",
+        "english": "Convenience"
+      },
+      {
+        "japanese": "試合 (しあい)",
+        "romaji": "しあい",
+        "english": "Match/ game"
+      }
+    ],
+    "parts": [
+      {
+        "part": "人",
+        "meaning": "ひと (Person)"
+      },
+      {
+        "part": "一",
+        "meaning": "いち (One)"
+      },
+      {
+        "part": "口",
+        "meaning": "くち (Mouth)"
+      }
+    ],
+    "story": "Picture 人 and 一 combining to form 'Suit'."
+  },
+  {
+    "character": "速",
+    "level": "N4",
+    "lesson": "３ ４ 課",
+    "pdf_id": "8",
+    "onyomi": [
+      "そく"
+    ],
+    "kunyomi": [
+      "はや（い）"
+    ],
+    "meaning": "Fast, Quick",
+    "stroke_count": 0,
+    "examples": [],
+    "parts": [
+      {
+        "part": "辶",
+        "meaning": "しんにょう (Walk)"
+      },
+      {
+        "part": "束",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 辶 and 束 combining to form 'Fast'."
+  },
+  {
+    "character": "直",
+    "level": "N4",
+    "lesson": "３ ４ 課",
+    "pdf_id": "9",
+    "onyomi": [
+      "ちょく",
+      "じき"
+    ],
+    "kunyomi": [
+      "なお（ります）"
+    ],
+    "meaning": "Direct,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "なお（します）",
+        "romaji": "",
+        "english": "Repair, Fix"
+      }
+    ],
+    "parts": [
+      {
+        "part": "十",
+        "meaning": "じゅう (Ten)"
+      },
+      {
+        "part": "目",
+        "meaning": "め (Eye)"
+      },
+      {
+        "part": "乚",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 十 and 目 combining to form 'Direct'."
+  },
+  {
+    "character": "業",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "1",
+    "onyomi": [
+      "ぎょう"
+    ],
+    "kunyomi": [],
+    "meaning": "Business,Work",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "する (ざんぎょうする)",
+        "romaji": "ざんぎょうする",
+        "english": "Work overtime"
+      },
+      {
+        "japanese": "授業 (じゅぎょう)",
+        "romaji": "じゅぎょう",
+        "english": "Lesson"
+      }
+    ],
+    "parts": [
+      {
+        "part": "业",
+        "meaning": "?"
+      },
+      {
+        "part": "未",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 业 and 未 combining to form 'Business'."
+  },
+  {
+    "character": "鳥",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "2",
+    "onyomi": [
+      "ちょう",
+      "とり"
+    ],
+    "kunyomi": [],
+    "meaning": "Bird",
+    "stroke_count": 0,
+    "examples": [],
+    "parts": [
+      {
+        "part": "鳥",
+        "meaning": "とり (Bird)"
+      }
+    ],
+    "story": "The radical 鳥 is the core essence of 'Bird'."
+  },
+  {
+    "character": "通",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "3",
+    "onyomi": [
+      "つう"
+    ],
+    "kunyomi": [
+      "かよ（います）"
+    ],
+    "meaning": "Commute,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "とお（ります）、",
+        "romaji": "",
+        "english": "Pass by"
+      },
+      {
+        "japanese": "交通 (こうつう)",
+        "romaji": "こうつう",
+        "english": "Traffic/ transportation"
+      }
+    ],
+    "parts": [
+      {
+        "part": "辶",
+        "meaning": "しんにょう (Walk)"
+      },
+      {
+        "part": "用",
+        "meaning": "もちいる (Use)"
+      }
+    ],
+    "story": "Picture 辶 and 用 combining to form 'Commute'."
+  },
+  {
+    "character": "味",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "4",
+    "onyomi": [
+      "み",
+      "あじ"
+    ],
+    "kunyomi": [],
+    "meaning": "Taste,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "あじ（わいます）",
+        "romaji": "",
+        "english": "Flavour"
+      },
+      {
+        "japanese": "意味 (いみ)",
+        "romaji": "いみ",
+        "english": "Meaning"
+      }
+    ],
+    "parts": [
+      {
+        "part": "口",
+        "meaning": "くち (Mouth)"
+      },
+      {
+        "part": "未",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 口 and 未 combining to form 'Taste'."
+  },
+  {
+    "character": "運",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "5",
+    "onyomi": [
+      "うん"
+    ],
+    "kunyomi": [
+      "はこ（びます）"
+    ],
+    "meaning": "Carry,Transport",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "運動 (うんどうかい)",
+        "romaji": "うんどうかい",
+        "english": "Sports day"
+      },
+      {
+        "japanese": "運休 (うんきゅう)",
+        "romaji": "うんきゅう",
+        "english": "Service suspended"
+      }
+    ],
+    "parts": [
+      {
+        "part": "辶",
+        "meaning": "しんにょう (Walk)"
+      },
+      {
+        "part": "軍",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 辶 and 軍 combining to form 'Carry'."
+  },
+  {
+    "character": "転",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "6",
+    "onyomi": [
+      "てん"
+    ],
+    "kunyomi": [
+      "ころ（がります）"
+    ],
+    "meaning": "Revolve",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "運 (うんてん)",
+        "romaji": "うんてん",
+        "english": "Drive"
+      },
+      {
+        "japanese": "自 (じてんしゃ)",
+        "romaji": "じてんしゃ",
+        "english": "Bicycle"
+      }
+    ],
+    "parts": [
+      {
+        "part": "車",
+        "meaning": "くるま (Car)"
+      },
+      {
+        "part": "云",
+        "meaning": "?"
+      }
+    ],
+    "story": "Picture 車 and 云 combining to form 'Revolve'."
+  },
+  {
+    "character": "力",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "7",
+    "onyomi": [
+      "りょく",
+      "りき",
+      "ちから"
+    ],
+    "kunyomi": [],
+    "meaning": "Strength",
+    "stroke_count": 0,
+    "examples": [],
+    "parts": [
+      {
+        "part": "力",
+        "meaning": "ちから (Power)"
+      }
+    ],
+    "story": "The radical 力 is the core essence of 'Strength'."
+  },
+  {
+    "character": "色",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "8",
+    "onyomi": [
+      "しょく",
+      "しき",
+      "いろ"
+    ],
+    "kunyomi": [],
+    "meaning": "Colour",
+    "stroke_count": 0,
+    "examples": [],
+    "parts": [
+      {
+        "part": "色",
+        "meaning": "いろ (Color)"
+      }
+    ],
+    "story": "The radical 色 is the core essence of 'Colour'."
+  },
+  {
+    "character": "具",
+    "level": "N4",
+    "lesson": "Lessons 27 & 28",
+    "pdf_id": "9",
+    "onyomi": [
+      "ぐ"
+    ],
+    "kunyomi": [],
+    "meaning": "Tools",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "家具 (かぐ)",
+        "romaji": "かぐ",
+        "english": "faniture"
+      },
+      {
+        "japanese": "道具 (どうぐ)",
+        "romaji": "どうぐ",
+        "english": "Tools/ instruments"
+      }
+    ]
+  },
+  {
+    "character": "地",
+    "level": "N4",
+    "lesson": "Lessons 29 & 30",
+    "pdf_id": "1",
+    "onyomi": [
+      "ち",
+      "じ"
+    ],
+    "kunyomi": [],
+    "meaning": "Earth, soil",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "地 (ちず)",
+        "romaji": "ちず",
+        "english": "Map"
+      },
+      {
+        "japanese": "地下 (ちか)",
+        "romaji": "ちか",
+        "english": "Basement/ underground"
+      }
+    ]
+  },
+  {
+    "character": "走",
+    "level": "N4",
+    "lesson": "Lessons 29 & 30",
+    "pdf_id": "2",
+    "onyomi": [
+      "そう"
+    ],
+    "kunyomi": [
+      "はし（ります）"
+    ],
+    "meaning": "Run",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "集",
+    "level": "N4",
+    "lesson": "Lessons 29 & 30",
+    "pdf_id": "3",
+    "onyomi": [
+      "しゅう"
+    ],
+    "kunyomi": [
+      "あつ（めます）"
+    ],
+    "meaning": "Assemble,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "あつ（まります）",
+        "romaji": "",
+        "english": "Gather"
+      }
+    ]
+  },
+  {
+    "character": "究",
+    "level": "N4",
+    "lesson": "Lessons 29 & 30",
+    "pdf_id": "5",
+    "onyomi": [
+      "きゅう"
+    ],
+    "kunyomi": [],
+    "meaning": "Research",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "けんきゅう",
+        "romaji": "",
+        "english": "Research"
+      }
+    ]
+  },
+  {
+    "character": "曜",
+    "level": "N4",
+    "lesson": "Lessons 29 & 30",
+    "pdf_id": "6",
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [
+      "("
+    ],
+    "meaning": "Week)day",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "水曜日 (すいようび)",
+        "romaji": "すいようび",
+        "english": "wednesday"
+      }
+    ]
+  },
+  {
+    "character": "重",
+    "level": "N4",
+    "lesson": "Lessons 29 & 30",
+    "pdf_id": "7",
+    "onyomi": [
+      "じゅう",
+      "ちょう"
+    ],
+    "kunyomi": [
+      "おも（い）"
+    ],
+    "meaning": "Heavy,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "かさ（なります）、",
+        "romaji": "",
+        "english": "Overlap"
+      }
+    ]
+  },
+  {
+    "character": "池",
+    "level": "N4",
+    "lesson": "Lessons 29 & 30",
+    "pdf_id": "8",
+    "onyomi": [
+      "ち",
+      "いけ"
+    ],
+    "kunyomi": [],
+    "meaning": "Pond",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "電池 (でんち)",
+        "romaji": "でんち",
+        "english": "Battery"
+      }
+    ]
+  },
+  {
+    "character": "形",
+    "level": "N4",
+    "lesson": "Lessons 29 & 30",
+    "pdf_id": "9",
+    "onyomi": [
+      "ぎょう",
+      "けい",
+      "かたち"
+    ],
+    "kunyomi": [],
+    "meaning": "Shape, Form",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "人形 (にんぎょう)",
+        "romaji": "にんぎょう",
+        "english": "Doll"
+      }
+    ]
+  },
+  {
+    "character": "東",
+    "level": "N4",
+    "lesson": "Lessons 31 & 32",
+    "pdf_id": "1",
+    "onyomi": [
+      "とう",
+      "ひがし"
+    ],
+    "kunyomi": [],
+    "meaning": "East",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "東京 (とうきょう)",
+        "romaji": "とうきょう",
+        "english": "Tokyo"
+      }
+    ]
+  },
+  {
+    "character": "西",
+    "level": "N4",
+    "lesson": "Lessons 31 & 32",
+    "pdf_id": "2",
+    "onyomi": [
+      "せい",
+      "さい",
+      "にし"
+    ],
+    "kunyomi": [],
+    "meaning": "West",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "かんさい",
+        "romaji": "",
+        "english": "Kansai"
+      }
+    ]
+  },
+  {
+    "character": "南",
+    "level": "N4",
+    "lesson": "Lessons 31 & 32",
+    "pdf_id": "3",
+    "onyomi": [
+      "なん",
+      "みなみ"
+    ],
+    "kunyomi": [],
+    "meaning": "South",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "北",
+    "level": "N4",
+    "lesson": "Lessons 31 & 32",
+    "pdf_id": "4",
+    "onyomi": [
+      "ほく",
+      "きた"
+    ],
+    "kunyomi": [],
+    "meaning": "North",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "北海道 (ほっかいどう)",
+        "romaji": "ほっかいどう",
+        "english": "Hokkaido"
+      },
+      {
+        "japanese": "北の (きたのくに)",
+        "romaji": "きたのくに",
+        "english": "Northern countries"
+      }
+    ]
+  },
+  {
+    "character": "市",
+    "level": "N4",
+    "lesson": "Lessons 31 & 32",
+    "pdf_id": "5",
+    "onyomi": [
+      "し",
+      "いち"
+    ],
+    "kunyomi": [],
+    "meaning": "Market,City",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "市役所 (しやくしょ)",
+        "romaji": "しやくしょ",
+        "english": "Municipal office"
+      }
+    ]
+  },
+  {
+    "character": "風",
+    "level": "N4",
+    "lesson": "Lessons 31 & 32",
+    "pdf_id": "6",
+    "onyomi": [
+      "ふう",
+      "かぜ"
+    ],
+    "kunyomi": [],
+    "meaning": "Wind",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "台風 (たいふう)",
+        "romaji": "たいふう",
+        "english": "Typhoon"
+      }
+    ]
+  },
+  {
+    "character": "夕",
+    "level": "N4",
+    "lesson": "Lessons 31 & 32",
+    "pdf_id": "7",
+    "onyomi": [
+      "せき",
+      "ゆう"
+    ],
+    "kunyomi": [],
+    "meaning": "Evening",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "夕方 (ゆうがた)",
+        "romaji": "ゆうがた",
+        "english": "Evening/ dusk"
+      }
+    ]
+  },
+  {
+    "character": "空",
+    "level": "N4",
+    "lesson": "Lessons 31 & 32",
+    "pdf_id": "8",
+    "onyomi": [
+      "くう",
+      "そら",
+      "から"
+    ],
+    "kunyomi": [],
+    "meaning": "Sky, Empty",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "空港 (くうこう)",
+        "romaji": "くうこう",
+        "english": "Airport"
+      },
+      {
+        "japanese": "空手 (からて)",
+        "romaji": "からて",
+        "english": "Karate"
+      }
+    ]
+  },
+  {
+    "character": "服",
+    "level": "N4",
+    "lesson": "Lessons 33 & 34",
+    "pdf_id": "2",
+    "onyomi": [
+      "ふく"
+    ],
+    "kunyomi": [],
+    "meaning": "Clothes",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "質",
+    "level": "N4",
+    "lesson": "Lessons 33 & 34",
+    "pdf_id": "3",
+    "onyomi": [
+      "しつ",
+      "しち"
+    ],
+    "kunyomi": [],
+    "meaning": "Quality",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "光",
+    "level": "N4",
+    "lesson": "Lessons 33 & 34",
+    "pdf_id": "4",
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "ひか（ります）"
+    ],
+    "meaning": "To shine,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "ひかり",
+        "romaji": "",
+        "english": "Light"
+      }
+    ]
+  },
+  {
+    "character": "閉",
+    "level": "N4",
+    "lesson": "Lessons 33 & 34",
+    "pdf_id": "5",
+    "onyomi": [
+      "へい"
+    ],
+    "kunyomi": [
+      "し（まります）"
+    ],
+    "meaning": "Close",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "番",
+    "level": "N4",
+    "lesson": "Lessons 33 & 34",
+    "pdf_id": "6",
+    "onyomi": [
+      "ばん"
+    ],
+    "kunyomi": [],
+    "meaning": "Number,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "(",
+        "romaji": "",
+        "english": "One’s) Turn"
+      },
+      {
+        "japanese": "一番 (いちばん)",
+        "romaji": "いちばん",
+        "english": "Number 1"
+      }
+    ]
+  },
+  {
+    "character": "交",
+    "level": "N4",
+    "lesson": "Lessons 33 & 34",
+    "pdf_id": "8",
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "まじ（わります）"
+    ],
+    "meaning": "Associate,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "まじ（えます）",
+        "romaji": "",
+        "english": "Mix"
+      },
+      {
+        "japanese": "交通 (こうつう)",
+        "romaji": "こうつう",
+        "english": "Traffic/ transportation"
+      },
+      {
+        "japanese": "交差点 (こうさてん)",
+        "romaji": "こうさてん",
+        "english": "Crossing/ intersection"
+      }
+    ]
+  },
+  {
+    "character": "危",
+    "level": "N4",
+    "lesson": "Lessons 33 & 34",
+    "pdf_id": "9",
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "あぶ（ない）"
+    ],
+    "meaning": "Dangerous",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "危 (きけん)",
+        "romaji": "きけん",
+        "english": "Danger"
+      }
+    ]
+  },
+  {
+    "character": "同",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "1",
+    "onyomi": [
+      "どう"
+    ],
+    "kunyomi": [
+      "おな（じ）"
+    ],
+    "meaning": "Same",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "治",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "2",
+    "onyomi": [
+      "じ",
+      "ち"
+    ],
+    "kunyomi": [
+      "なお（ります）"
+    ],
+    "meaning": "To be",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "なお（します）、",
+        "romaji": "",
+        "english": "cured/governed"
+      },
+      {
+        "japanese": ",",
+        "romaji": "",
+        "english": "cure/govern"
+      },
+      {
+        "japanese": "政治 (せいじ)",
+        "romaji": "せいじ",
+        "english": "Politics"
+      }
+    ]
+  },
+  {
+    "character": "所",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "3",
+    "onyomi": [
+      "しょ",
+      "ところ"
+    ],
+    "kunyomi": [],
+    "meaning": "Place",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "住所 (じゅうしょ)",
+        "romaji": "じゅうしょ",
+        "english": "Address"
+      },
+      {
+        "japanese": "近所 (きんじょ)",
+        "romaji": "きんじょ",
+        "english": "Neighbourhood"
+      },
+      {
+        "japanese": "台所 (だいどころ)",
+        "romaji": "だいどころ",
+        "english": "Kitchen"
+      }
+    ]
+  },
+  {
+    "character": "暑",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "4",
+    "onyomi": [
+      "しょ"
+    ],
+    "kunyomi": [
+      "あつ（い）"
+    ],
+    "meaning": "Hot",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "ざんしょ",
+        "romaji": "",
+        "english": "Late summer heat"
+      }
+    ]
+  },
+  {
+    "character": "寒",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "5",
+    "onyomi": [
+      "かん"
+    ],
+    "kunyomi": [
+      "さむ（い）"
+    ],
+    "meaning": "Cold",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "便",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "6",
+    "onyomi": [
+      "べん",
+      "びん"
+    ],
+    "kunyomi": [
+      "たよ（り）"
+    ],
+    "meaning": "Convenience",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "不便な所 (ふべんなところ)",
+        "romaji": "ふべんなところ",
+        "english": "Inconvenient place"
+      },
+      {
+        "japanese": "郵便局 (ゆうびんきょく)",
+        "romaji": "ゆうびんきょく",
+        "english": "Post office"
+      }
+    ]
+  },
+  {
+    "character": "利",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "7",
+    "onyomi": [
+      "り"
+    ],
+    "kunyomi": [
+      "き（く）"
+    ],
+    "meaning": "Profit, Benefit",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "便利なカメラ (べんりなカメラ)",
+        "romaji": "べんりなカメラ",
+        "english": "Convenient camera"
+      }
+    ]
+  },
+  {
+    "character": "泳",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "8",
+    "onyomi": [
+      "えい"
+    ],
+    "kunyomi": [
+      "およ（ぎます）"
+    ],
+    "meaning": "Swim",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "水泳 (すいえい)",
+        "romaji": "すいえい",
+        "english": "Swimming"
+      }
+    ]
+  },
+  {
+    "character": "活",
+    "level": "N4",
+    "lesson": "Lessons 35 & 36",
+    "pdf_id": "9",
+    "onyomi": [
+      "かつ"
+    ],
+    "kunyomi": [],
+    "meaning": "Living",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "生活 (せいかつ)",
+        "romaji": "せいかつ",
+        "english": "Life/living"
+      }
+    ]
+  },
+  {
+    "character": "工",
+    "level": "N4",
+    "lesson": "Lessons 37 & 38",
+    "pdf_id": "2",
+    "onyomi": [
+      "こう",
+      "く"
+    ],
+    "kunyomi": [],
+    "meaning": "Factory, Construction",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "工場 (こうじょう)",
+        "romaji": "こうじょう",
+        "english": "Factory/plant"
+      }
+    ]
+  },
+  {
+    "character": "飯",
+    "level": "N4",
+    "lesson": "Lessons 37 & 38",
+    "pdf_id": "3",
+    "onyomi": [
+      "はん",
+      "めし"
+    ],
+    "kunyomi": [],
+    "meaning": "Meal, Cooked rice",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "晩ご飯 (ばんごはん)",
+        "romaji": "ばんごはん",
+        "english": "Dinner"
+      }
+    ]
+  },
+  {
+    "character": "台",
+    "level": "N4",
+    "lesson": "Lessons 37 & 38",
+    "pdf_id": "4",
+    "onyomi": [
+      "だい",
+      "たい"
+    ],
+    "kunyomi": [],
+    "meaning": "Stand, Rack",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "台所 (だいどころ)",
+        "romaji": "だいどころ",
+        "english": "Kitchen"
+      },
+      {
+        "japanese": "舞台 (ぶたい)",
+        "romaji": "ぶたい",
+        "english": "Stage (theatre)"
+      }
+    ]
+  },
+  {
+    "character": "題",
+    "level": "N4",
+    "lesson": "Lessons 37 & 38",
+    "pdf_id": "5",
+    "onyomi": [
+      "だい"
+    ],
+    "kunyomi": [],
+    "meaning": "Title, Subject,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Question"
+      },
+      {
+        "japanese": "問題 (もんだい)",
+        "romaji": "もんだい",
+        "english": "Question/problem"
+      },
+      {
+        "japanese": "宿題 (しゅくだい)",
+        "romaji": "しゅくだい",
+        "english": "Homework"
+      },
+      {
+        "japanese": "題名 (だいめい)",
+        "romaji": "だいめい",
+        "english": "Title"
+      }
+    ]
+  },
+  {
+    "character": "待",
+    "level": "N4",
+    "lesson": "Lessons 37 & 38",
+    "pdf_id": "6",
+    "onyomi": [
+      "たい"
+    ],
+    "kunyomi": [
+      "ま（ちます）"
+    ],
+    "meaning": "Wait",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "招待 (しょうたい)",
+        "romaji": "しょうたい",
+        "english": "Invitation"
+      },
+      {
+        "japanese": "期待 (きたい)",
+        "romaji": "きたい",
+        "english": "Expectation/hope"
+      },
+      {
+        "japanese": "待ち合わせ (まちあわせ)",
+        "romaji": "まちあわせ",
+        "english": "Appointment"
+      }
+    ]
+  },
+  {
+    "character": "米",
+    "level": "N4",
+    "lesson": "Lessons 37 & 38",
+    "pdf_id": "7",
+    "onyomi": [
+      "まい",
+      "べい",
+      "こめ"
+    ],
+    "kunyomi": [],
+    "meaning": "Rice, USA",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "米 (べいこく)",
+        "romaji": "べいこく",
+        "english": "USA/America"
+      },
+      {
+        "japanese": "白米 (はくまい)",
+        "romaji": "はくまい",
+        "english": "White rice"
+      }
+    ]
+  },
+  {
+    "character": "村",
+    "level": "N4",
+    "lesson": "Lessons 37 & 38",
+    "pdf_id": "8",
+    "onyomi": [
+      "そん",
+      "むら"
+    ],
+    "kunyomi": [],
+    "meaning": "Village",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "市町村 (しちょうそん)",
+        "romaji": "しちょうそん",
+        "english": "Cities,towns & villages"
+      }
+    ]
+  },
+  {
+    "character": "注",
+    "level": "N4",
+    "lesson": "Lessons 37 & 38",
+    "pdf_id": "9",
+    "onyomi": [
+      "ちゅう"
+    ],
+    "kunyomi": [
+      "そそ（ぎます）"
+    ],
+    "meaning": "To pour",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "注文 (ちゅうもん)",
+        "romaji": "ちゅうもん",
+        "english": "Order/request"
+      },
+      {
+        "japanese": "車に注意する。ちゅうい",
+        "romaji": "",
+        "english": "Caution/attention"
+      }
+    ]
+  },
+  {
+    "character": "代",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "1",
+    "onyomi": [
+      "だい"
+    ],
+    "kunyomi": [
+      "か（わります）"
+    ],
+    "meaning": "Charges, Era",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "電話代 (でんわだい)",
+        "romaji": "でんわだい",
+        "english": "Telephone charges"
+      },
+      {
+        "japanese": "時代 (じだい)",
+        "romaji": "じだい",
+        "english": "Era/period"
+      },
+      {
+        "japanese": "十代 (じゅうだい)",
+        "romaji": "じゅうだい",
+        "english": "Teenage"
+      }
+    ]
+  },
+  {
+    "character": "死",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "2",
+    "onyomi": [
+      "し"
+    ],
+    "kunyomi": [
+      "し（にます）"
+    ],
+    "meaning": "Die",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "死者 (ししゃ)",
+        "romaji": "ししゃ",
+        "english": "Deceased"
+      }
+    ]
+  },
+  {
+    "character": "首",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "3",
+    "onyomi": [
+      "しゅ",
+      "くび"
+    ],
+    "kunyomi": [],
+    "meaning": "Neck",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "首相 (しゅしょう)",
+        "romaji": "しゅしょう",
+        "english": "Prime Minister"
+      },
+      {
+        "japanese": "手首 (てくび)",
+        "romaji": "てくび",
+        "english": "Wrist"
+      },
+      {
+        "japanese": "足首 (あしくび)",
+        "romaji": "あしくび",
+        "english": "Ankle"
+      }
+    ]
+  },
+  {
+    "character": "結",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "4",
+    "onyomi": [
+      "けつ"
+    ],
+    "kunyomi": [
+      "むす（びます）"
+    ],
+    "meaning": "Bind, Fasten",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "結婚する (けっこんする)",
+        "romaji": "けっこんする",
+        "english": "Marriage"
+      },
+      {
+        "japanese": "結果 (けっか)",
+        "romaji": "けっか",
+        "english": "Outcome/result"
+      }
+    ]
+  },
+  {
+    "character": "婚",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "5",
+    "onyomi": [
+      "こん"
+    ],
+    "kunyomi": [],
+    "meaning": "Marriage",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "婚約 (こんやく)",
+        "romaji": "こんやく",
+        "english": "Engagement"
+      }
+    ]
+  },
+  {
+    "character": "式",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "6",
+    "onyomi": [
+      "しき"
+    ],
+    "kunyomi": [],
+    "meaning": "Ceremony,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Style, Formula"
+      },
+      {
+        "japanese": "結婚式 (けっこんしき)",
+        "romaji": "けっこんしき",
+        "english": "Wedding ceremony"
+      },
+      {
+        "japanese": "和式 (わしき)",
+        "romaji": "わしき",
+        "english": "Japanese style"
+      },
+      {
+        "japanese": "卒業式 (そつぎょうしき)",
+        "romaji": "そつぎょうしき",
+        "english": "Graduation ceremony"
+      }
+    ]
+  },
+  {
+    "character": "全",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "7",
+    "onyomi": [
+      "ぜん"
+    ],
+    "kunyomi": [
+      "まった（く）"
+    ],
+    "meaning": "Entire, Whole",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "全部 (ぜんぶ)",
+        "romaji": "ぜんぶ",
+        "english": "In total/all"
+      }
+    ]
+  },
+  {
+    "character": "次",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "8",
+    "onyomi": [
+      "し",
+      "じ",
+      "つぎ"
+    ],
+    "kunyomi": [
+      "つ（ぐ）"
+    ],
+    "meaning": "Next, Order",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "二次会 (にじかい 2)",
+        "romaji": "にじかい 2",
+        "english": "nd party of same night"
+      },
+      {
+        "japanese": "次男 (じなん 2)",
+        "romaji": "じなん 2",
+        "english": "nd son"
+      },
+      {
+        "japanese": "次回 (じかい)",
+        "romaji": "じかい",
+        "english": "Next time/occasion"
+      }
+    ]
+  },
+  {
+    "character": "以",
+    "level": "N4",
+    "lesson": "Lessons 39 & 40",
+    "pdf_id": "9",
+    "onyomi": [
+      "い"
+    ],
+    "kunyomi": [],
+    "meaning": "Compared with",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "以上 (いじょう)",
+        "romaji": "いじょう",
+        "english": "Not less than"
+      },
+      {
+        "japanese": "以下 (いか)",
+        "romaji": "いか",
+        "english": "Not more than"
+      },
+      {
+        "japanese": "以 (いない)",
+        "romaji": "いない",
+        "english": "Within/inside of"
+      },
+      {
+        "japanese": "以 (いらい)",
+        "romaji": "いらい",
+        "english": "Henceforth"
+      },
+      {
+        "japanese": "以前 (いぜん)",
+        "romaji": "いぜん",
+        "english": "Previous/before"
+      }
+    ]
+  },
+  {
+    "character": "進",
+    "level": "N4",
+    "lesson": "Lessons 41 & 42",
+    "pdf_id": "2",
+    "onyomi": [
+      "しん"
+    ],
+    "kunyomi": [
+      "すす（めます）"
+    ],
+    "meaning": "Progress,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "すす（みます）",
+        "romaji": "",
+        "english": "Advance"
+      },
+      {
+        "japanese": "進 (する しんがくする)",
+        "romaji": "する しんがくする",
+        "english": "Go to university"
+      }
+    ]
+  },
+  {
+    "character": "産",
+    "level": "N4",
+    "lesson": "Lessons 41 & 42",
+    "pdf_id": "3",
+    "onyomi": [
+      "さん"
+    ],
+    "kunyomi": [
+      "うま（れます）"
+    ],
+    "meaning": "give birth,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "う（みます）",
+        "romaji": "",
+        "english": "produce"
+      },
+      {
+        "japanese": "お土産 (おみやげ)",
+        "romaji": "おみやげ",
+        "english": "Souvenir"
+      }
+    ]
+  },
+  {
+    "character": "園",
+    "level": "N4",
+    "lesson": "Lessons 41 & 42",
+    "pdf_id": "4",
+    "onyomi": [
+      "えん",
+      "その"
+    ],
+    "kunyomi": [],
+    "meaning": "Park",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "公園 (こうえん)",
+        "romaji": "こうえん",
+        "english": "Park"
+      },
+      {
+        "japanese": "動物園 (どうぶつえん)",
+        "romaji": "どうぶつえん",
+        "english": "Zoo"
+      },
+      {
+        "japanese": "遊園地 (ゆうえんち)",
+        "romaji": "ゆうえんち",
+        "english": "Amusement park"
+      }
+    ]
+  },
+  {
+    "character": "公",
+    "level": "N4",
+    "lesson": "Lessons 41 & 42",
+    "pdf_id": "5",
+    "onyomi": [
+      "こう",
+      "おおややけ"
+    ],
+    "kunyomi": [],
+    "meaning": "Official,Public",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "公園 (こうえん)",
+        "romaji": "こうえん",
+        "english": "Park"
+      },
+      {
+        "japanese": "公共 (こうきょう)",
+        "romaji": "こうきょう",
+        "english": "Society/community"
+      }
+    ]
+  },
+  {
+    "character": "案",
+    "level": "N4",
+    "lesson": "Lessons 41 & 42",
+    "pdf_id": "6",
+    "onyomi": [
+      "あん"
+    ],
+    "kunyomi": [],
+    "meaning": "Idea, Suggestion",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "案 (あんない)",
+        "romaji": "あんない",
+        "english": "Guidance/info"
+      }
+    ]
+  },
+  {
+    "character": "石",
+    "level": "N4",
+    "lesson": "Lessons 41 & 42",
+    "pdf_id": "8",
+    "onyomi": [
+      "せき",
+      "しゃく",
+      "いし"
+    ],
+    "kunyomi": [],
+    "meaning": "Stone",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "石油 (せきゆ)",
+        "romaji": "せきゆ",
+        "english": "Oil/petroleum"
+      },
+      {
+        "japanese": "磁石 (じしゃく)",
+        "romaji": "じしゃく",
+        "english": "Compass/magnet"
+      }
+    ]
+  },
+  {
+    "character": "油",
+    "level": "N4",
+    "lesson": "Lessons 41 & 42",
+    "pdf_id": "9",
+    "onyomi": [
+      "ゆ",
+      "あぶら"
+    ],
+    "kunyomi": [],
+    "meaning": "Oil",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "灯油 (とうゆ)",
+        "romaji": "とうゆ",
+        "english": "Kerosene"
+      },
+      {
+        "japanese": "ごま油 (ごまあぶら)",
+        "romaji": "ごまあぶら",
+        "english": "Sesame oil"
+      }
+    ]
+  },
+  {
+    "character": "回",
+    "level": "N4",
+    "lesson": "Lessons 43 & 44",
+    "pdf_id": "1",
+    "onyomi": [
+      "かい"
+    ],
+    "kunyomi": [
+      "まわ（ります）"
+    ],
+    "meaning": "Rotate, Turn",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "一回 (いっかい)",
+        "romaji": "いっかい",
+        "english": "Once"
+      },
+      {
+        "japanese": "今回 (こんかい)",
+        "romaji": "こんかい",
+        "english": "This time, Now"
+      },
+      {
+        "japanese": "回 (かいてん)",
+        "romaji": "かいてん",
+        "english": "Rotation/ revolution"
+      }
+    ]
+  },
+  {
+    "character": "起",
+    "level": "N4",
+    "lesson": "Lessons 43 & 44",
+    "pdf_id": "2",
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "お（こす）"
+    ],
+    "meaning": "Wake up",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "頭",
+    "level": "N4",
+    "lesson": "Lessons 43 & 44",
+    "pdf_id": "3",
+    "onyomi": [
+      "とう",
+      "ず",
+      "あたま"
+    ],
+    "kunyomi": [],
+    "meaning": "Head",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "短",
+    "level": "N4",
+    "lesson": "Lessons 43 & 44",
+    "pdf_id": "4",
+    "onyomi": [
+      "たん"
+    ],
+    "kunyomi": [
+      "みじか(い)"
+    ],
+    "meaning": "Short",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "短所 (たんしょ)",
+        "romaji": "たんしょ",
+        "english": "Defect/ weak point"
+      }
+    ]
+  },
+  {
+    "character": "低",
+    "level": "N4",
+    "lesson": "Lessons 43 & 44",
+    "pdf_id": "5",
+    "onyomi": [
+      "てい"
+    ],
+    "kunyomi": [
+      "ひく(い)"
+    ],
+    "meaning": "Low position/rank,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "Short height"
+      },
+      {
+        "japanese": "最低 (さいてい)",
+        "romaji": "さいてい",
+        "english": "Horrible/ disgusting"
+      }
+    ]
+  },
+  {
+    "character": "洗",
+    "level": "N4",
+    "lesson": "Lessons 43 & 44",
+    "pdf_id": "7",
+    "onyomi": [
+      "せん"
+    ],
+    "kunyomi": [
+      "あら(います)"
+    ],
+    "meaning": "Wash",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "洗濯する。 (せんたくする。)",
+        "romaji": "せんたくする。",
+        "english": "Washing/ laundry"
+      },
+      {
+        "japanese": "洗 (せんざい)",
+        "romaji": "せんざい",
+        "english": "Washing detergent"
+      }
+    ]
+  },
+  {
+    "character": "洋",
+    "level": "N4",
+    "lesson": "Lessons 43 & 44",
+    "pdf_id": "8",
+    "onyomi": [
+      "よう"
+    ],
+    "kunyomi": [],
+    "meaning": "Ocean",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "東洋 (とうよう)",
+        "romaji": "とうよう",
+        "english": "East Asia/ orient"
+      },
+      {
+        "japanese": "西洋 (せいよう)",
+        "romaji": "せいよう",
+        "english": "Western countries"
+      }
+    ]
+  },
+  {
+    "character": "別",
+    "level": "N4",
+    "lesson": "Lessons 43 & 44",
+    "pdf_id": "9",
+    "onyomi": [
+      "べつ"
+    ],
+    "kunyomi": [
+      "わか(れる)"
+    ],
+    "meaning": "Other, Separate",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "特別なこと (とくべつなこと)",
+        "romaji": "とくべつなこと",
+        "english": "Special"
+      },
+      {
+        "japanese": "別",
+        "romaji": "",
+        "english": "Separately"
+      },
+      {
+        "japanese": "性別 (せいべつ)",
+        "romaji": "せいべつ",
+        "english": "Distinction in gender"
+      }
+    ]
+  },
+  {
+    "character": "卒",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "1",
+    "onyomi": [
+      "そつ"
+    ],
+    "kunyomi": [],
+    "meaning": "graduation",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "卒業 (そつぎょう)",
+        "romaji": "そつぎょう",
+        "english": "graduation"
+      }
+    ]
+  },
+  {
+    "character": "引",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "２",
+    "onyomi": [
+      "いん"
+    ],
+    "kunyomi": [],
+    "meaning": "To pull, draw",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "ひ（く）",
+        "romaji": "",
+        "english": "out, attract"
+      },
+      {
+        "japanese": "割引 (わりびき)",
+        "romaji": "わりびき",
+        "english": "discount"
+      }
+    ]
+  },
+  {
+    "character": "越",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "3",
+    "onyomi": [
+      "えつ"
+    ],
+    "kunyomi": [],
+    "meaning": "exceed",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "引っ越し (ひっこし)",
+        "romaji": "ひっこし",
+        "english": "moving"
+      }
+    ]
+  },
+  {
+    "character": "太",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "４",
+    "onyomi": [
+      "た"
+    ],
+    "kunyomi": [
+      "ふと（い）"
+    ],
+    "meaning": "plump, thick,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "ふと（る）",
+        "romaji": "",
+        "english": "big around"
+      },
+      {
+        "japanese": "太る (ふとる)",
+        "romaji": "ふとる",
+        "english": "gain weight"
+      },
+      {
+        "japanese": "太陽 (たいよう)",
+        "romaji": "たいよう",
+        "english": "sun"
+      }
+    ]
+  },
+  {
+    "character": "細",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "５",
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [],
+    "meaning": "thin",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "細い (ほそい)",
+        "romaji": "ほそい",
+        "english": "thin"
+      },
+      {
+        "japanese": "細かい (こまかい)",
+        "romaji": "こまかい",
+        "english": "small, fine"
+      }
+    ]
+  },
+  {
+    "character": "働",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "６",
+    "onyomi": [
+      "どう"
+    ],
+    "kunyomi": [],
+    "meaning": "work",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "５時まで",
+        "romaji": "",
+        "english": "work"
+      }
+    ]
+  },
+  {
+    "character": "押",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "7",
+    "onyomi": [
+      "おう"
+    ],
+    "kunyomi": [
+      "お（す）"
+    ],
+    "meaning": "push",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "好",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "８",
+    "onyomi": [
+      "こう"
+    ],
+    "kunyomi": [
+      "す（き）"
+    ],
+    "meaning": "like",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "好きなスポ",
+        "romaji": "",
+        "english": "like"
+      }
+    ]
+  },
+  {
+    "character": "冷",
+    "level": "N4",
+    "lesson": "Lessons 45 & 46",
+    "pdf_id": "9",
+    "onyomi": [
+      "れい"
+    ],
+    "kunyomi": [
+      "つめ（たい）"
+    ],
+    "meaning": "cold",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "冷たい水 (つめたいみず)",
+        "romaji": "つめたいみず",
+        "english": "cool water"
+      },
+      {
+        "japanese": "冷",
+        "romaji": "",
+        "english": "refrigerator"
+      }
+    ]
+  },
+  {
+    "character": "声",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "１",
+    "onyomi": [
+      "せい",
+      "こえ"
+    ],
+    "kunyomi": [],
+    "meaning": "voice",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "鳥の",
+        "romaji": "",
+        "english": "birds' Voices"
+      }
+    ]
+  },
+  {
+    "character": "暗",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "２",
+    "onyomi": [
+      "あん"
+    ],
+    "kunyomi": [
+      "くら（い）"
+    ],
+    "meaning": "dark",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "暗い (くらい)",
+        "romaji": "くらい",
+        "english": "dark"
+      }
+    ]
+  },
+  {
+    "character": "弱",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "3",
+    "onyomi": [
+      "じゃく",
+      "よわい"
+    ],
+    "kunyomi": [],
+    "meaning": "weak",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "体が弱い (からだがよわい)",
+        "romaji": "からだがよわい",
+        "english": "weak"
+      }
+    ]
+  },
+  {
+    "character": "遠",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "4",
+    "onyomi": [
+      "えん"
+    ],
+    "kunyomi": [
+      "とお（い）"
+    ],
+    "meaning": "far",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "野",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "5",
+    "onyomi": [
+      "や",
+      "の"
+    ],
+    "kunyomi": [],
+    "meaning": "field",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "反",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "６",
+    "onyomi": [
+      "はん"
+    ],
+    "kunyomi": [
+      "そ（る）"
+    ],
+    "meaning": "anti-",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "伝",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "７",
+    "onyomi": [
+      "でん"
+    ],
+    "kunyomi": [
+      "つた（える）"
+    ],
+    "meaning": "tell",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "若",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "８",
+    "onyomi": [
+      "じゃく"
+    ],
+    "kunyomi": [
+      "わか（い）"
+    ],
+    "meaning": "young",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "両",
+    "level": "N4",
+    "lesson": "Lessons 47 & 48",
+    "pdf_id": "９",
+    "onyomi": [
+      "りょう"
+    ],
+    "kunyomi": [],
+    "meaning": "Both",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "京",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "1",
+    "onyomi": [
+      "きょう"
+    ],
+    "kunyomi": [],
+    "meaning": "capital",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "私",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "２",
+    "onyomi": [
+      "し",
+      "わたし"
+    ],
+    "kunyomi": [],
+    "meaning": "I, me, private",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "乗",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "３",
+    "onyomi": [
+      "じょう"
+    ],
+    "kunyomi": [
+      "の（る）"
+    ],
+    "meaning": "ride, get on",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "菜",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "４",
+    "onyomi": [
+      "さい"
+    ],
+    "kunyomi": [],
+    "meaning": "vegetable",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "吸",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "５",
+    "onyomi": [
+      "きゅう"
+    ],
+    "kunyomi": [
+      "す（う）"
+    ],
+    "meaning": "suck, inhale,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "absorb"
+      }
+    ]
+  },
+  {
+    "character": "記",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "６",
+    "onyomi": [
+      "き"
+    ],
+    "kunyomi": [
+      "しる（す）"
+    ],
+    "meaning": "write down,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "record, note"
+      }
+    ]
+  },
+  {
+    "character": "雪",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "７",
+    "onyomi": [
+      "せつ",
+      "ゆき"
+    ],
+    "kunyomi": [],
+    "meaning": "snow",
+    "stroke_count": 0,
+    "examples": []
+  },
+  {
+    "character": "絵",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "８",
+    "onyomi": [
+      "かい",
+      "え"
+    ],
+    "kunyomi": [],
+    "meaning": "picture,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "drawing,"
+      },
+      {
+        "japanese": "",
+        "romaji": "",
+        "english": "painting"
+      }
+    ]
+  },
+  {
+    "character": "消",
+    "level": "N4",
+    "lesson": "Lessons 49 & 50",
+    "pdf_id": "９",
+    "onyomi": [
+      "しょう"
+    ],
+    "kunyomi": [
+      "け（す）"
+    ],
+    "meaning": "extinguish,",
+    "stroke_count": 0,
+    "examples": [
+      {
+        "japanese": "き（える）",
+        "romaji": "",
+        "english": "erase, delete"
+      }
+    ]
+  }
+]
