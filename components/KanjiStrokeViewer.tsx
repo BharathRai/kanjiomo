@@ -52,7 +52,7 @@ export default function KanjiStrokeViewer({ character, size = 200 }: KanjiStroke
     const pause = () => {
         // HanziWriter generic pause not always exposed easily, but cancelAnimation stops it.
         if (writerRef.current) {
-            writerRef.current.cancelAnimation();
+            (writerRef.current as any).cancelAnimation();
             setIsPlaying(false);
         }
     }
